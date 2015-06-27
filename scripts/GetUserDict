@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+# 取得 RIME 自動組詞數據。
+#
+# ./scripts/GetUserDict
+# ./scripts/GetUserDict jyutping
+# ./scripts/GetUserDict jyutping_zeng
+
+schema=${1:-jyutping_zeng}
+
+if [[ -d ~/Library/Rime ]]; then
+  app='/Library/Input Methods/Squirrel.app/Contents/MacOS/rime_dict_manager'
+  cd ~/Library/Rime && "$app" -e "$schema" /dev/stdout
+else
+  echo '請告知我們您的操作系統類型：'
+  echo 'https://github.com/jyutping/rime-schema-jyutping/issues'
+  exit -1
+fi

@@ -1,0 +1,72 @@
+##### Rime 編碼方案 ############################################################
+#
+# Jyutping Zeng - 粵拼．正
+# 粵拼真係正！
+#
+# 項目地址：https://github.com/jyutping/rime-schema-jyutping
+#
+# 主要參考資料來源：
+# * The Unicode Consortium http://www.unicode.org/
+#   + Unicode 8.0.0 http://www.unicode.org/Public/8.0.0/
+# * 漢典 http://www.zdic.net/
+# * 異體字字典 http://dict2.variants.moe.edu.tw/variants/
+# * 中文維基百科 https://zh-yue.wikipedia.org/
+# * 香港粵語語料庫 http://compling.hss.ntu.edu.sg/hkcancor/
+# * 漢語多功能字庫 http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/
+# * 開放詞典綱：粵語詞典 http://kaifangcidian.com/han/yue
+# * 電腦用漢字粵語拼音表 http://www.iso10646hk.net/jp/document/jyut_yam_table.jsp
+#   + 粵拼資料庫 http://www.iso10646hk.net/jp/database/index.jsp
+# * 香港二十世紀中期粵語語料庫 http://corpus.ied.edu.hk/hkcc/
+# * 現代標準漢語與粵語對照資料庫 http://apps.itsc.cuhk.edu.hk/hanyu/Page/Cover.aspx
+#
+################################################################################
+
+---
+name: jyutping_zeng   # ID
+version: '2015.6.27'  # 更新日期，兼作版本號。
+
+#use_preset_vocabulary: true   # 導入〔八股文〕提供的字詞及權重。
+#max_phrase_length: 7          # 導入詞條的最大長度。
+#min_phrase_weight: 100        # 導入詞條的最低權重要求。
+# 不希望加入該依賴。
+
+import_tables:                # 導入辭庫
+  - jyutping_zeng-zing        # 正字
+  - jyutping_zeng-phrase      # 詞條
+  - jyutping_zeng-idiom       # 熟語
+  - jyutping_zeng-western     # 西文
+  - jyutping_zeng-sentence    # 句子
+  - jyutping_zeng-wip         # 測試（work-in-progress）
+
+sort: by_weight                   # 按詞頻排序。
+columns: [ text, code, weight ]   # 各列數據用途：字詞，編碼，權重。另加一列備註。
+...
+# 注意：以下內容只有行首爲 # 方爲註釋。
+
+# 未指定權重的字詞，權重默認爲 0；
+# 只有未明確指定權重或使用百分比（％）的字詞才會採用〔八股文〕權重。
+# 八股文：https://github.com/rime/brise/blob/master/essay.txt
+
+# 排序方式：
+#
+# 按 Unicode/UTF-8 字符編碼排序。（方便補漏）
+# LC_ALL=C sort -t$'\t'
+#
+# 以字音爲主，Unicode/UTF-8 碼爲輔排序。（推薦）
+# LC_ALL=C sort -t$'\t' -k2,2
+#
+# 以詞條字數爲主，讀音爲輔排序。（詞句專用）
+# LC_ALL=en_US.UTF-8 awk 'BEGIN{FS=OFS="\t"}{print length($1),$0}' | \
+#   LC_ALL=C sort -t$'\t' -k1,1n -k3,3d -k2,2 | \
+#     cut -f2-
+#
+# 以上排序指令皆適用於 Linux 或 Mac OS 之命令行終端。
+# sort、awk、cut 皆爲 GNU Coreutils 附帶工具 gsort、gawk、gcut。
+#
+# 若不懂得以上操作，可使用以下網頁提供的排序功能（亦可另存網頁後離線使用）：
+# https://jyutping.github.io/rime-schema-jyutping/web/sort.html
+
+# 該表只收錄單字字音。
+
+############## 單字字音 {
+############## 單字字音 }

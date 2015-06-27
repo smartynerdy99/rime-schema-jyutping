@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+# 部署拼寫及編碼方案：
+# ./scripts/Deploy [ schema_id ]
+
+schema=${1:-jyutping_zeng}
+
+if [[ -d "$HOME/Library/Rime" ]]; then  # Mac 用戶
+  rime="$HOME/Library/Rime"
+  shared='/Library/Input Methods/Squirrel.app/Contents/SharedSupport'
+  app='/Library/Input Methods/Squirrel.app/Contents/MacOS/rime_deployer'
+  cp -u "${schema}"*.yaml "$rime" && \
+    cd "$rime" && \
+      "$app" --compile "${schema}.schema.yaml" . "$shared" && \
+        "$app" --set-active-schema "$schema" && \
+          ls -hl "${schema}"*.yaml
+else
+  echo '請告知我們您的操作系統類型：'
+  echo 'https://github.com/jyutping/rime-schema-jyutping/issues'
+  exit -1
+fi
