@@ -11,7 +11,6 @@ RIME 粵拼輸入法方案
   - trad2simp.txt 繁簡字對應表
   - variants.txt 異體字對應表
   - radicals.txt 康熙字典索引部首及獨立漢字對應表
-  - jyut-jam-table.txt 香港電腦用漢字粵語拼音表
   + OpenCC 「開放中文轉換」項目提供的資料
     https://github.com/BYVoid/OpenCC
 - scripts/ 存放輔助文字處理之 BASH 腳本
