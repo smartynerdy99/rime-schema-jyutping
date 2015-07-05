@@ -8,16 +8,19 @@ RIME 粵拼輸入法方案
 - jyutping_zeng*.dict.yaml RIME 編碼方案
 - refs/ 存放參考資料
   - chart.txt 查漏表格（內含非粵字）
-  - trad2simp.txt 繁簡字對應表
-  - variants.txt 異體字對應表
-  - radicals.txt 康熙字典索引部首及獨立漢字對應表
-  + OpenCC 「開放中文轉換」項目提供的資料
+  - Unihan/ 從 Unihan 數據庫中抽取的數據
+    - trad2simp.txt 繁簡字對應表
+    - variants.txt 異體字對應表
+    - radicals.txt 康熙字典索引部首及獨立漢字對應表
+    - jyutping.txt 粵字拼音碼表
+  + OpenCC/ 「開放中文轉換」項目提供的資料
     https://github.com/BYVoid/OpenCC
 - scripts/ 存放輔助文字處理之 BASH 腳本
   - GenDictData 用於產生 Unihan 粵字拼音碼表
   - GenSimpList 用於產生 Unihan 繁簡字對應表
   - GenVariants 用於產生 Unihan 異體字對應表
   - GetUserDict 用於取得 RIME 自動組詞數據
+  - DelUserDict 用於清空 RIME 自動組詞數據
   - Deploy 用於部署拼寫及編碼方案
   - DeployDicts 僅用於部署編碼方案（辭典）
 - web/
@@ -72,7 +75,7 @@ https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
 詞條1	粵拼	權重	備註
 詞條2	粵拼	權重	備註
 ```
-可以的話，請預先詞條分類並排序好。
+可以的話，請預先把詞條分類並排序好。
 
 另，在下非專業人士，若有錯漏，敬請多多指正。
 
@@ -82,44 +85,4 @@ https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
 
 該項目的資料未經同意，不可用於商業用途。
 
-使用時請注明來源，確保大衆可以隨時取得最新信息，推進粵語發展。謝謝合作。
-
-本項目之 [Unihan] 數據附帶版權聲明：
-
-COPYRIGHT AND PERMISSION NOTICE
-
-Copyright © 1991-2015 Unicode, Inc. All rights reserved.
-Distributed under the Terms of Use in
-http://www.unicode.org/copyright.html.
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of the Unicode data files and any associated documentation
-(the "Data Files") or Unicode software and any associated documentation
-(the "Software") to deal in the Data Files or Software
-without restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, and/or sell copies of
-the Data Files or Software, and to permit persons to whom the Data Files
-or Software are furnished to do so, provided that
-(a) this copyright and permission notice appear with all copies
-of the Data Files or Software,
-(b) this copyright and permission notice appear in associated
-documentation, and
-(c) there is clear notice in each modified Data File or in the Software
-as well as in the documentation associated with the Data File(s) or
-Software that the data or software has been modified.
-
-THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
-WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT OF THIRD PARTY RIGHTS.
-IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS
-NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL
-DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE,
-DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
-TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THE DATA FILES OR SOFTWARE.
-
-Except as contained in this notice, the name of a copyright holder
-shall not be used in advertising or otherwise to promote the sale,
-use or other dealings in these Data Files or Software without prior
-written authorization of the copyright holder.
+使用時請注明來源，確保大衆可以隨時取得最新信息，推進粵語發展。多謝合作。
