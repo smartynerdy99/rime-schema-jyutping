@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+# 清空 RIME 自動組詞數據。
+#
+# ./scripts/DelUserDict
+# ./scripts/DelUserDict jyutping_zeng
+
+schema=${1:-jyutping_zeng}
+
+if [[ -d "$HOME/Library/Rime" ]]; then
+  rm -Rf "$HOME/Library/Rime/${schema}.userdb"
+else
+  echo '請告知我們您的操作系統類型：'
+  echo 'https://github.com/jyutping/rime-schema-jyutping/issues'
+  exit -1
+fi
