@@ -66,6 +66,8 @@ columns: [ text, code, weight ]   # 各列數據用途：字詞，編碼，權�
 # https://jyutping.github.io/rime-schema-jyutping/web/sort.html
 
 # 該表只收錄單字字音。
+#
+# 未收錄字可以結構符號輔助記錄：⿰⿱⿲⿳⿴⿵⿶⿷⿸⿹⿺⿻
 
 ############## 單字字音 {
 ############## 單字字音 }
