@@ -28,7 +28,10 @@ RIME 粵拼輸入法方案
     https://jyutping.github.io/rime-schema-jyutping/web/sort.html
 
 [Unihan]: http://www.unicode.org/Public/8.0.0/ucd/Unihan.zip
-          該壓縮包附有大量珍貴資訊，如中日韓字表，康熙檢字表。
+           該壓縮包附有大量珍貴資訊，如字頻、拼音、形碼等。
+
+[Unicode]: http://www.unicode.org/Public/8.0.0/
+           該網站還提供了中日韓字表，康熙檢字表，及其它有用資料。
 
 
 各文件內附註記：
