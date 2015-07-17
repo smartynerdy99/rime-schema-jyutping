@@ -25,6 +25,7 @@ columns: [ text, code, weight ]
 幹	hon4	0	〔異體←榦〕例：井～。
 榦	hon4	0	〔異體←幹〕例：井～。
 失	jat6	0	通「逸」。例：淫～／其馬將～。
+冰	jing4	0	同「凝」。
 月	juk6	0	例：大～氏。
 雍	jung3	0	例：～州。
 與	jyu4	0	同「歟」。
@@ -36,7 +37,9 @@ columns: [ text, code, weight ]
 泥	nai5	0	例：～～。
 樂	ngaau6	0	例：～業／仁者～山／敬業～群。
 亨	paang1	0	通「烹」。
+馮	pang4	0	例：～河。
 埲	pung1	0	例：塕～。
+洗	sin2	0	同「冼」。
 菟	tou4	0	例：於～。
 於	wu1	0	例：～菟。
 丁	zang1	0	例：伐木～～。
