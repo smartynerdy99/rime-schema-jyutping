@@ -12,7 +12,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2015.7.16'
+version: '2015.7.17'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -55,7 +55,8 @@ columns: [ text, code ]
 背窿	bui3 lung3	〔？〕駝背。
 大爹	daai6 de1	伯父。
 大奶	daai6 naai5	伯母。
-鬥死	dau3 sei2	〔？〕作死。
+踏跤	dap6 geu1	〔？〕跌倒。
+逗死	dau3 sei2	〔？〕作死。
 筷箸	faai3 zyu6	筷子。
 夫乸	fu1 naa2	〔？〕婦女。
 鳮溼	gai1 sap1	鳮肝。
@@ -68,6 +69,7 @@ columns: [ text, code ]
 紅蜆	hung4 hin2	蚯蚓。
 舅爹	kau6 de1	舅父。
 舅奶	kau6 naai5	舅母。
+爛逗	laan6 dau3	〔？〕頑皮。
 落水	lok6 seoi2	下雨。
 冇愛	maau5 oi3	不要。
 泥湴	nai4 baan6	濕軟的泥地。
