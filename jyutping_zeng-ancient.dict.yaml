@@ -18,6 +18,8 @@ columns: [ text, code, weight ]
 北	bui3	0	通「背」。
 卒	ceoi3	0	通「倅」。
 卒	cyut3	0	通「猝」。
+訑	daan3	0	通「誕」。
+讀	dau6	0	例：句～。
 許	fu2	0	例：邪～。
 夫	fu4	0	語助詞。
 訐	gai3	0	直言不諱。
@@ -31,7 +33,10 @@ columns: [ text, code, weight ]
 月	juk6	0	例：大～氏。
 雍	jung3	0	例：～州。
 與	jyu4	0	同「歟」。
+語	jyu6	0	例：～人／～上／～下。
 京	jyun4	0	例：九～。
+說	jyut6	0	通「悅」。
+説	jyut6	0	通「悦」。
 來	loi6	0	例：勞～。
 徠	loi6	0	例：勞～。
 樂	lok3	0	例：～亭／～陵。
@@ -47,5 +52,7 @@ columns: [ text, code, weight ]
 丁	zang1	0	例：伐木～～。
 且	zeoi1	0	語助詞。
 仔	zi1	0	例：～肩。
+識	zi3	0	例：博聞強～／款～。
 食	zi6	0	同「飼」。
+召	ziu1	0	同「招」。
 長	zoeng6	0	例：身無～物。
