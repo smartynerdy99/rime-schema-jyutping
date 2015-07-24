@@ -28,7 +28,7 @@ RIME 粵拼輸入法方案
     https://jyutping.github.io/rime-schema-jyutping/web/sort.html
 
 [Unihan]: http://www.unicode.org/Public/8.0.0/ucd/Unihan.zip
-           該壓縮包附有大量珍貴資訊，如字頻、拼音、形碼等。
+          該壓縮包附有大量珍貴資訊，如字頻、拼音、形碼等。
 
 [Unicode]: http://www.unicode.org/Public/8.0.0/
            該網站還提供了中日韓字表，康熙檢字表，及其它有用資料。
@@ -82,6 +82,12 @@ https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
 粵拼、權重以及備註均可略去不填。
 
 另，在下非專業人士，若有錯漏，敬請多多指正。
+
+你亦可以經由其它途徑間接爲粵語發展作出貢獻：
+
+* 粵典網 words.hk
+  開放的粵語網絡辭典。目前尚在開發中。若想參與編輯，請先加入 Facebook 小組：
+  https://www.facebook.com/groups/words.hk.editors/
 
 
 版權相關
