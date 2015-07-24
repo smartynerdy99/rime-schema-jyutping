@@ -83,7 +83,7 @@ https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
 
 另，在下非專業人士，若有錯漏，敬請多多指正。
 
-你亦可以經由其它途徑間接爲粵語發展作出貢獻：
+你亦可以經由其它途徑間接爲該項目作出貢獻：
 
 * 粵典網 words.hk
   開放的粵語網絡辭典。目前尚在開發中。若想參與編輯，請先加入 Facebook 小組：
