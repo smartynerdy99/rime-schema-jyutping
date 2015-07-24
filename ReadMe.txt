@@ -79,7 +79,7 @@ https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
 詞條2,粵拼,權重,備註
 ```
 分隔符【,】可以被替換成任何符號，只要易於識别便可。
-詞條、權重以及備註均可略去不填。
+粵拼、權重以及備註均可略去不填。
 
 另，在下非專業人士，若有錯漏，敬請多多指正。
 
