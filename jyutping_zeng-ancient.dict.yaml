@@ -16,6 +16,8 @@ columns: [ text, code, weight ]
 ...
 匕	bei2	0	羹匙。
 北	bui3	0	通「背」。
+厠	cak1	0	〔異體←廁〕
+廁	cak1	0	例：～身／～足。
 卒	ceoi3	0	通「倅」。
 卒	cyut3	0	通「猝」。
 訑	daan3	0	通「誕」。
@@ -30,14 +32,18 @@ columns: [ text, code, weight ]
 幹	hon4	0	〔異體←榦〕例：井～。
 榦	hon4	0	〔異體←幹〕例：井～。
 失	jat6	0	通「逸」。例：淫～／其馬將～。
+厭	jim1	0	例：～～。
+靨	jim2	0	例：瘢～。
 冰	jing4	0	同「凝」。
 月	juk6	0	例：大～氏。
+賣	juk6	0	同「鬻」。
 雍	jung3	0	例：～州。
 與	jyu4	0	同「歟」。
 語	jyu6	0	例：～人／～上／～下。
 京	jyun4	0	例：九～。
 說	jyut6	0	通「悅」。
 説	jyut6	0	通「悦」。
+盧	leoi4	0	古兗州河流名稱。
 來	loi6	0	例：勞～。
 徠	loi6	0	例：勞～。
 樂	lok3	0	例：～亭／～陵。
