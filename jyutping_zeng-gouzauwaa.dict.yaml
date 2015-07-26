@@ -12,7 +12,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2015.7.17'
+version: '2015.7.26'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -33,6 +33,7 @@ columns: [ text, code ]
 麪	min1	〔？〕粉軟。
 捺	naat1	用指甲撬。
 泥	nai1	〔？〕髒。
+拈	nem1	〔？〕例：～出來。
 尿	neu6
 嗌	ngaai3	〔？〕嚼。
 韌	ngan3	〔異讀←ngan6〕柔韌。
