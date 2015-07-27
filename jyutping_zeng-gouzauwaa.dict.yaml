@@ -12,7 +12,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2015.7.26'
+version: '2015.7.27'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -22,6 +22,7 @@ columns: [ text, code ]
 #焫	naat3	滾燙。例：好～啊。
 #韌	ngan3	〔異讀←ngan6〕柔韌。
 哽	ang2	〔？〕依然。例：～冇回來。
+搬	bun1	搬弄。例：在上高～乜嘢。
 在	coi5	〔異讀←zoi6〕例：～這裏。
 知	dei1	〔異讀←zi1〕例：～冇～。
 叫	eu1	〔異讀←giu3〕
@@ -43,6 +44,7 @@ columns: [ text, code ]
 儂	nung2	〔異讀←nung4〕小孩。
 儂	nung4	人（多指小孩）。
 愛	oi3	想要。例：～冇～。
+挲	saa1	〔？〕用手去碰。例：亂～／～來～去。
 處	syu3	地方。例：邊～／嗰～／呢～。
 擁	uk6	〔？〕推重物。例：～下張檯。
 惡	we3	〔？〕膩；厭惡。例：食～咗／好～。
@@ -51,6 +53,7 @@ columns: [ text, code ]
 𤘅孲	aa3 haa1	〔？〕嬰兒。
 阿婆	aa3 po4	婆婆。
 啊度	aa4 dou6	〔？〕那裏。
+啊裏	aa4 neoi5	〔？〕那裏。
 矮瓜	ai2 gwaa1	茄子。
 包粟	baau1 suk1	玉米。
 薄刀	bok6 dou1	屠刀。
@@ -62,7 +65,7 @@ columns: [ text, code ]
 大奶	daai6 naai5	伯母。
 等？	dang2 zin3	等會（再……）。例：等～。
 踏跤	dap6 geu1	〔？〕跌倒。
-逗死	dau3 sei2	〔？〕作死。
+逗死	dau3 sei2	作死。
 筷箸	faai3 zyu6	筷子。
 夫乸	fu1 naa2	〔？〕婦女。
 鳮溼	gai1 sap1	鳮肝。
@@ -75,7 +78,7 @@ columns: [ text, code ]
 紅蜆	hung4 hin2	蚯蚓。
 舅爹	kau6 de1	舅父。
 舅奶	kau6 naai5	舅母。
-爛逗	laan6 dau3	〔？〕頑皮。例：眞係～。
+爛逗	laan6 dau3	頑皮。例：眞係～。
 爛開	laan6 hoi1	破了。例：搞～。
 落水	lok6 seoi2	下雨。
 冇愛	maau5 oi3	不要。
@@ -102,6 +105,7 @@ columns: [ text, code ]
 咁樣子	gam2 joeng6 zi2	這樣。
 糖膠紙	tong4 keu1 zi2	糖果包裝袋。
 蛛巢𦧲	zyu1 daau1 le1	〔？〕蜘蛛網。
+逗是逗非	dau3 si6 dau3 fei1	搬弄是非，惹是生非，撩是生非，撩是逗非。
 磨磨韌韌	mo4 mo4 ngan3 ngan3	〔？〕磨磨蹭蹭。
 磨廝趿篤	mo4 si1 taat3 duk1	〔？〕慢吞吞。
 嗌麪嗌濃	ngaai3 min1 ngaai3 jung5	〔？〕嚼爛。
