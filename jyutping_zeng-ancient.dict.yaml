@@ -19,6 +19,8 @@ columns: [ text, code, weight ]
 厠	cak1	0	〔異體←廁〕
 廁	cak1	0	例：～身／～足。
 卒	ceoi3	0	通「倅」。
+削	ciu3	0	同「鞘」。例：～格。
+錯	cou3	0	通「措」。
 卒	cyut3	0	通「猝」。
 訑	daan3	0	通「誕」。
 讀	dau6	0	例：句～。
@@ -52,8 +54,10 @@ columns: [ text, code, weight ]
 樂	ngaau6	0	例：～業／仁者～山／敬業～群。
 亨	paang1	0	通「烹」。
 馮	pang4	0	例：～河。
+副	pik1	0	例：不坼不～。
 埲	pung1	0	例：塕～。
 洗	sin2	0	同「冼」。
+剔	tai3	0	同「剃」。
 菟	tou4	0	例：於～。
 於	wu1	0	例：～菟。
 責	zaai3	0	同「債」。
