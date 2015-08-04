@@ -24,11 +24,14 @@ columns: [ text, code, weight ]
 卒	cyut3	0	通「猝」。
 訑	daan3	0	通「誕」。
 讀	dau6	0	例：句～。
+衕	dung6	0	例：痔～。
 華	faa1	0	同「花」。
 許	fu2	0	例：邪～。
 夫	fu4	0	語助詞。
 訐	gai3	0	直言不諱。
 干	gon3	0	同「幹」。
+共	gung1	0	同「供」；通「恭」。
+共	gung2	0	同「拱」。
 串	gwaan3	0	通「慣」。
 亨	hoeng2	0	通「享」。
 幹	hon4	0	〔異體←榦〕例：井～。
@@ -50,6 +53,7 @@ columns: [ text, code, weight ]
 徠	loi6	0	例：勞～。
 樂	lok3	0	例：～亭／～陵。
 亡	mou4	0	通「無」。
+內	naap6	0	同「納」。
 泥	nai5	0	例：～～。
 樂	ngaau6	0	例：～業／仁者～山／敬業～群。
 亨	paang1	0	通「烹」。
