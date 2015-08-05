@@ -18,16 +18,22 @@ columns: [ text, code ]
 ...
 # 〔？〕表示本字甚爲不明，或很可能有音無字。
 #蕩	dong6	逛街。例：周圍～。
+#呷	haap3	吸飲。例：～啖湯。
 #凝	king4	凝固。例：～住咗。
 #焫	naat3	滾燙。例：好～啊。
 #韌	ngan3	〔異讀←ngan6〕柔韌。
 哽	ang2	〔？〕依然。例：～冇回來。
 搬	bun1	搬弄。例：在上高～乜嘢。
 在	coi5	〔異讀←zoi6〕例：～這裏。
+擔	daam1	拿。例：～鞭打／～凳坐。
+蹋	dap6	〔？〕著地；摔落。例：～跤／～爛／～落地。
+？	dat1	擺放。例：～在食飯檯上高。
 知	dei1	〔異讀←zi1〕例：～冇～。
 叫	eu1	〔異讀←giu3〕
 幾	gei2	〔？〕現在；這裡。例：在～／～在打工。
 交	geu1	〔異讀←gaau1〕例：橫～十字／打～／鬧～。
+曳	jak6	〔？〕搖曳。例：～來～去。
+涌	jong2	〔異讀←jung2〕例：湯～出來咧。
 濃	jung5	味厚；稠糊。例：好～。
 膠	keu1	粘住了。例：～實。
 撬	keu3	例：～爛把鎖。
@@ -38,12 +44,13 @@ columns: [ text, code ]
 撩	liu4	〔？〕閒逛。例：去邊處～。
 冇	maau5	非；無。例：～愛／～係／～有／有～。
 麪	min1	〔？〕粉軟。例：好～。
-冇	mou2	禁止。例：～打交／～。
+冇	mou2	禁止。例：～打交／～吵。
 捺	naat1	用指甲撬。
 泥	nai1	〔？〕髒。例：好～／搞～。
 拈	nem1	〔？〕例：～出來。
 尿	neu6
 嗌	ngaai3	〔？〕嚼。
+拽	ngai1	〔？〕拉。例：～高啲。
 鵝	ngo1	〔異讀←ngo4〕
 儂	nung2	〔異讀←nung4〕小孩。
 儂	nung4	人（多指小孩）。
@@ -54,6 +61,7 @@ columns: [ text, code ]
 擁	uk6	〔？〕推重物。例：～下張檯。
 惡	we3	〔？〕膩；厭惡。例：食～咗／好～。
 隻	zik1	〔異讀←zek3〕例：一～鳮／～～。
+捉	zok3	〔異讀←zuk1〕例：～實／～到。
 阿公	aa3 gung1	爺爺。
 𤘅孲	aa3 haa1	〔？〕嬰兒。
 阿婆	aa3 po4	婆婆。
@@ -62,6 +70,7 @@ columns: [ text, code ]
 矮瓜	ai2 gwaa1	茄子。
 包粟	baau1 suk1	玉米。
 薄刀	bok6 dou1	屠刀。
+步梯	bou6 tai1	梯子。
 妚爹	bui1 de1	〔？〕姨丈。
 妚奶	bui1 naai5	〔？〕姨媽。
 背窿	bui3 lung3	〔？〕駝背。
@@ -69,7 +78,7 @@ columns: [ text, code ]
 大味	daai6 mei6	味道過濃。例：好～。
 大奶	daai6 naai5	伯母。
 等？	dang2 zin3	等會（再……）。例：等～。
-踏跤	dap6 geu1	〔？〕跌倒。
+蹋跤	dap6 geu1	〔？〕跌倒。
 逗死	dau3 sei2	作死。
 筷箸	faai3 zyu6	筷子。
 夫乸	fu1 naa2	〔？〕婦女。
@@ -88,7 +97,7 @@ columns: [ text, code ]
 爛開	laan6 hoi1	破了。例：搞～。
 落水	lok6 seoi2	下雨。
 冇好	maau5 hou2	不要。例：～打交／～飲酒。
-冇愛	maau5 oi3	不要。
+冇愛	maau5 oi3	不想要。
 泥湴	nai4 baan6	濕軟的泥地。
 眼睡	ngaan5 seoi6	困倦。例：好～。
 銀紙	ngan4 zi2	紙幣。
@@ -114,7 +123,7 @@ columns: [ text, code ]
 糖膠紙	tong4 keu1 zi2	糖果包裝袋。
 蛛巢𦧲	zyu1 daau1 le1	〔？〕蜘蛛網。
 逗是逗非	dau3 si6 dau3 fei1	搬弄是非，惹是生非，撩是生非，撩是逗非。
-未有一箇	mei6 jau5 jat1 go3	不過多久。例：都～就走咧。
+未有一箇	mei6 jau5 jat1 go3	〔？〕不過多久。例：都～就走咧。
 磨磨韌韌	mo4 mo4 ngan3 ngan3	〔？〕磨磨蹭蹭。
 磨廝趿篤	mo4 si1 taat3 duk1	〔？〕慢吞吞。
 嗌麪嗌濃	ngaai3 min1 ngaai3 jung5	〔？〕嚼爛。
