@@ -12,7 +12,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2015.8.5'
+version: '2015.8.6'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -22,7 +22,7 @@ columns: [ text, code ]
 #凝	king4	凝固。例：～住咗。
 #焫	naat3	滾燙。例：好～啊。
 #韌	ngan3	〔異讀←ngan6〕柔韌。
-哽	ang2	〔？〕依然。例：～冇回來。
+哽	ang2	〔？〕仍然。例：～冇回來。
 搬	bun1	搬弄。例：在上高～乜嘢。
 在	coi5	〔異讀←zoi6〕例：～這裏。
 擔	daam1	拿。例：～鞭打／～凳坐。
@@ -32,9 +32,9 @@ columns: [ text, code ]
 叫	eu1	〔異讀←giu3〕
 幾	gei2	〔？〕現在；這裡。例：在～／～在打工。
 交	geu1	〔異讀←gaau1〕例：橫～十字／打～／鬧～。
+行	hang3	〔？〕奔波勞碌。例：周圍～／～上～落。
 曳	jak6	〔？〕搖曳。例：～來～去。
 涌	jong2	〔異讀←jung2〕例：湯～出來咧。
-濃	jung5	味厚；稠糊。例：好～。
 膠	keu1	粘住了。例：～實。
 撬	keu3	例：～爛把鎖。
 攪	keu3	〔？〕肆意擺弄。例：冇～。
@@ -52,6 +52,7 @@ columns: [ text, code ]
 嗌	ngaai3	〔？〕嚼。
 拽	ngai1	〔？〕拉。例：～高啲。
 鵝	ngo1	〔異讀←ngo4〕
+濃	ngung5	味厚；稠糊。例：好～。
 儂	nung2	〔異讀←nung4〕小孩。
 儂	nung4	人（多指小孩）。
 愛	oi3	想要。例：～冇～。
@@ -77,10 +78,11 @@ columns: [ text, code ]
 大爹	daai6 de1	伯父。
 大味	daai6 mei6	味道過濃。例：好～。
 大奶	daai6 naai5	伯母。
-等？	dang2 zin3	等會（再……）。例：等～。
+等至	dang2 zin3	〔？〕等會（再……）。例：等～／等一～。
 蹋跤	dap6 geu1	〔？〕跌倒。
 逗死	dau3 sei2	作死。
 筷箸	faai3 zyu6	筷子。
+飯甌	faan6 au1	飯碗。
 夫乸	fu1 naa2	〔？〕婦女。
 鳮溼	gai1 sap1	鳮肝。
 金瓜	gam1 gwaa1	南瓜。
@@ -91,6 +93,7 @@ columns: [ text, code ]
 下低	haa6 dai1	下面。
 吃飯	hik1 faan6
 紅蜆	hung4 hin2	蚯蚓。
+骾頸	kaang2 geng2	咽喉阻塞。例：呢種面包好～。
 舅爹	kau6 de1	舅父。
 舅奶	kau6 naai5	舅母。
 爛逗	laan6 dau3	頑皮。例：眞係～。
@@ -115,6 +118,7 @@ columns: [ text, code ]
 糖膠	tong4 keu1	糖果。
 回屋	wui4 uk1	回家。
 集味	zaap6 mei6	入味。例：好～。
+揤鼻	zat6 bei6	〔？〕擦拭鼻子。
 蕉子	ziu1 zi2	香蕉。
 著便	zoek6 bin6	〔？〕以之爲便。例：成日要我幫你排隊～係未。
 著促	zoek6 cuk1	〔？〕嗆到喉嚨。
@@ -126,5 +130,5 @@ columns: [ text, code ]
 未有一箇	mei6 jau5 jat1 go3	〔？〕不過多久。例：都～就走咧。
 磨磨韌韌	mo4 mo4 ngan3 ngan3	〔？〕磨磨蹭蹭。
 磨廝趿篤	mo4 si1 taat3 duk1	〔？〕慢吞吞。
-嗌麪嗌濃	ngaai3 min1 ngaai3 jung5	〔？〕嚼爛。
+嗌麪嗌濃	ngaai3 min1 ngaai3 ngung5	〔？〕嚼爛。
 新年大頭	san1 nin5 daai6 tau5	年初。
