@@ -14,6 +14,7 @@ version: '2015.7.16'
 sort: by_weight
 columns: [ text, code, weight ]
 ...
+份	ban1	0	同「彬」。
 匕	bei2	0	羹匙。
 北	bui3	0	通「背」。
 厠	cak1	0	〔異體←廁〕
@@ -48,6 +49,7 @@ columns: [ text, code, weight ]
 京	jyun4	0	例：九～。
 說	jyut6	0	通「悅」。
 説	jyut6	0	通「悦」。
+伎	kei4	0	例：維足～～。
 盧	leoi4	0	古兗州河流名稱。
 來	loi6	0	例：勞～。
 徠	loi6	0	例：勞～。
