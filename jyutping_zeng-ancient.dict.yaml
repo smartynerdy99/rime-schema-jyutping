@@ -14,6 +14,7 @@ version: '2015.7.16'
 sort: by_weight
 columns: [ text, code, weight ]
 ...
+伯	baa3	0	通「霸」。
 份	ban1	0	同「彬」。
 匕	bei2	0	羹匙。
 北	bui3	0	通「背」。
@@ -55,6 +56,7 @@ columns: [ text, code, weight ]
 來	loi6	0	例：勞～。
 徠	loi6	0	例：勞～。
 樂	lok3	0	例：～亭／～陵。
+伯	mak6	0	通「陌」。例：仟～。
 亡	mou4	0	通「無」。
 內	naap6	0	同「納」。
 泥	nai5	0	例：～～。
