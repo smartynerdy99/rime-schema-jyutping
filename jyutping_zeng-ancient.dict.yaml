@@ -53,6 +53,7 @@ columns: [ text, code, weight ]
 説	jyut6	0	通「悦」。
 伎	kei4	0	例：維足～～。
 盧	leoi4	0	古兗州河流名稱。
+佬	liu4	0	例：～～大貌／侾～大貌。
 來	loi6	0	例：勞～。
 徠	loi6	0	例：勞～。
 樂	lok3	0	例：～亭／～陵。
@@ -66,8 +67,11 @@ columns: [ text, code, weight ]
 副	pik1	0	例：不坼不～。
 埲	pung1	0	例：塕～。
 洗	sin2	0	同「冼」。
+逹	taat3	-1	〔異體←達〕
+達	taat3	0	例：挑～／佻～。
 剔	tai3	0	同「剃」。
 佗	to1	0	通「他」。
+挑	tou1	0	例：～達。
 菟	tou4	0	例：於～。
 於	wu1	0	例：～菟。
 責	zaai3	0	同「債」。
