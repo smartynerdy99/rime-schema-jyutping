@@ -11,7 +11,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-cinziman
-version: '2015.7.7'
+version: '2015.8.21'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -50,7 +50,7 @@ columns: [ text, code ]
 率賓歸王	seot1 ban1 gwai1 wong4
 鳴鳳在竹	ming4 fung6 zoi6 zuk1
 白駒食場	baak6 keoi1 sik6 coeng4
-化被草木	faa3 pei1 cau2 muk6	「被」通「披」。
+化被草木	faa3 pei1 cou2 muk6	「被」通「披」。
 賴及萬方	laai6 kap6 maan6 fong1
 # 第一章 }
 # 第二章 {
@@ -172,7 +172,7 @@ columns: [ text, code ]
 用軍最精	jung6 gwan1 zeoi3 zing1
 宣威沙漠	syun1 wai1 saa1 mok6
 馳譽丹青	ci4 jyu6 daan1 cing1
-九州禹跡	gou2 zau1 jyu5 zik1
+九州禹跡	gau2 zau1 jyu5 zik1
 百郡秦并	baak3 gwan6 coen4 ping1
 嶽宗泰岱	ngok6 zung1 taai3 doi6
 禪主云亭	sin6 zyu2 wan4 ting4
