@@ -12,7 +12,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2015.8.17'
+version: '2015.8.21'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -28,17 +28,20 @@ columns: [ text, code ]
 #冇	mou2	禁止。例：～打交／～吵。
 #焫	naat3	滾燙。例：好～啊。
 #韌	ngan3	〔異讀←ngan6〕柔韌。
+#處	syu3	地方。例：邊～／嗰～／呢～。
 # 以上被註釋的單字及發音，雖然非高州話特有，但個人認爲可以增添趣味。
 哽	ang2	〔？〕仍然。例：～冇回來。
 搬	bun1	搬弄。例：在上高～乜嘢。
 捧	bung2	〔異讀←pung2〕例：～過來。
 在	coi5	〔異讀←zoi6〕例：～這裏。
 沖	cong3	〔異讀←cung1〕例：～一下／～廁所。
+蛆	cyu1	蛆蟲。例：一條～。
 蹋	dap6	〔？〕著地；摔落。例：～跤／～爛／～落地。
-？	dat1	擺放。例：～在食飯檯上高。
-知	dei1	〔異讀←zi1〕例：～冇～。
+嘚	dat1	〔？〕擺放。例：～在食飯檯上高。
+知	dei1	知道。例：～冇～。
 叫	eu1	〔異讀←giu3〕
-幾	gei2	〔？〕現在；這裡。例：在～／～在打工。
+拗	eu2	〔異讀←aau2〕例：～斷／～爛。
+幾	gei2	〔？〕這裡；現在。例：在～／～在打工。
 交	geu1	〔異讀←gaau1〕例：橫～十字／打～／鬧～。
 絞	geu2	〔異讀←gaau2〕例：～絲旁／～斷。
 撬	geu6	例：～開／～爛把鎖。
@@ -54,8 +57,8 @@ columns: [ text, code ]
 撩	liu4	〔？〕閒逛。例：去邊處～。
 冇	maau5	非；無。例：～愛／～係／～有／有～。
 麪	min1	〔？〕粉軟。例：好～。
-黏	naa1	〔？〕粘住。例：～住咗／攞塊胶布～實張紙。
-捺	naat1	用指甲撬。
+𪐀	naa1	〔？〕粘住。例：～住咗／攞塊胶布～實張紙。
+捺	naat1	用指甲撬或捏。例：冇～我耳仔／～開個盖。
 泥	nai1	〔？〕髒。例：好～／搞～。
 拈	nem1	〔？〕拿。例：～出來。
 裊	neu2	〔？〕蜷曲彫零。例：樹葉～嗮咧。
@@ -65,15 +68,15 @@ columns: [ text, code ]
 拽	ngai1	〔？〕拉。例：～高啲。
 皺	ngau3	〔異讀←zau3〕例：整～咧。
 鵝	ngo1	〔異讀←ngo4〕
-濃	ngung5	味厚；稠糊。例：好～。
+濃	ngung5	味厚或兼稠糊。例：好～。
 儂	nung2	〔異讀←nung4〕小孩。
 儂	nung4	人（多指小孩）。
 愛	oi3	想要。例：～冇～。
 挲	saa1	〔？〕用手去碰。例：亂～／～來～去。
-處	syu3	地方。例：邊～／嗰～／呢～。
-掉	teu2	〔？〕打翻。例：整～落地／打～碗湯。
+掉	teu2	〔？〕掉落。例：整～落地／打～碗湯。
 擁	uk6	〔？〕推重物。例：～下張檯。
-惡	we3	〔？〕膩；厭惡。例：食～咗／好～。
+噁	we3	〔？〕膩；厭惡。例：食～咗／好～。
+揤	zat6	擦拭。例：～鼻／～手／～干淨／～冇甩。
 隻	zik1	〔異讀←zek3〕例：一～鳮／～～。
 捉	zok3	〔異讀←zuk1〕例：～實／～到。
 阿公	aa3 gung1	爺爺。
@@ -81,7 +84,6 @@ columns: [ text, code ]
 阿婆	aa3 po4	婆婆。
 啊度	aa4 dou6	〔？〕那裏。
 啊裏	aa4 neoi5	〔？〕那裏。
-矮瓜	ai2 gwaa1	茄子。
 包粟	baau1 suk1	玉米。
 薄刀	bok6 dou1	屠刀。
 步梯	bou6 tai1	梯子。
@@ -91,7 +93,7 @@ columns: [ text, code ]
 大爹	daai6 de1	伯父。
 大味	daai6 mei6	味道過濃。例：好～。
 大奶	daai6 naai5	伯母。
-等至	dang2 zin3	〔？〕等會（再……）。例：等～／等一～。
+等先	dang2 zin3	〔？〕等會（再……）。例：等～／等一～。
 蹋跤	dap6 geu1	〔？〕跌倒。
 逗死	dau3 sei2	作死。
 獨令	duk4 ning5	〔？〕特地。例：我～買定棵青菜。
@@ -103,10 +105,11 @@ columns: [ text, code ]
 姑娘	gu1 noeng2	姑媽。
 姑爺	gu1 ye1	姑丈。
 共儂	gung6 nung4	〔？〕照顧小孩。
-櫃胎	gwai6 toi1	〔？〕抽屉。例：撬～。
+櫃胎	gwai6 toi1	〔？〕抽屉。例：攪～。
 下地	haa5 dei6	下到地面。
 下低	haa6 dai1	下面。
 吃飯	hik1 faan6
+回來	hui5 loi5
 紅蜆	hung4 hin2	蚯蚓。
 骾頸	kaang2 geng2	咽喉阻塞。例：呢種面包好～。
 舅爹	kau6 de1	舅父。
@@ -117,26 +120,25 @@ columns: [ text, code ]
 冇好	maau5 hou2	不要。例：～打交／～飲酒。
 冇愛	maau5 oi3	不想要。
 泥湴	nai4 baan6	濕軟的泥地。
-眼睡	ngaan5 seoi6	困倦。例：好～。
-銀紙	ngan4 zi2	紙幣。
-生膿	saang1 mung1	〔？〕得口腔㿉瘍。
+眼睡	ngaan5 seoi6	困倦，廣州話「眼瞓」。例：好～。
+銀紙	ngan4 zi2	紙幣；錢幣。
+生腔	saang1 mung1	〔？〕得口腔㿉瘍。
 細儂	sai3 nung2	小孩。
 參薯	sam1 syu5	薯蓣（淮山）。
-睡覺	seoi6 gaau3	廣州話說「瞓覺」。
-睡夢	seoi6 mung6	做夢。例：尋晚～見到阿公。
+睡覺	seoi6 gaau3	廣州話「瞓覺」。
+睡夢	seoi6 mung6	做夢，廣州話「發夢」。例：尋晚～見到阿公。
 食晏	sik6 aan3	吃午飯。
 食開	sik6 hoi1	吃完；吃過。例：～晚飯未。
 食晚	sik6 maan5	吃晚飯。
 食朝	sik6 ziu1	吃早飯。
-傷食	soeng1 sik6	〔？〕嘴饞。例：好～。
+傷食	soeng1 sik6	〔？〕嘴饞，廣州話「爲食」。例：好～。
 上高	soeng6 gou1	上面。
 頭毛	tau4 mou1	頭髮。
 糖膠	tong4 keu1	糖果。
 回屋	wui4 uk1	回家。
 集味	zaap6 mei6	入味。例：好～。
-揤鼻	zat6 bei6	〔？〕擦拭鼻子。
 蕉子	ziu1 zi2	香蕉。
-著便	zoek6 bin6	〔？〕以之爲便。例：成日要我幫你排隊～係未。
+著便	zoek6 bin6	以之爲便。例：成日要我幫你排隊～係未。
 著促	zoek6 cuk1	〔？〕嗆到喉嚨。
 猪溼	zyu1 sap1	猪肝。
 咁樣子	gam2 joeng6 zi2	這樣。
