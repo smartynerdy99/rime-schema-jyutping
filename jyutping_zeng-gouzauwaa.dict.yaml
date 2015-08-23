@@ -1,0 +1,96 @@
+##### Rime 編碼方案 ############################################################
+#
+# Jyutping Zeng - 粵拼．正
+# 粵拼真係正！
+#
+# 項目地址：https://github.com/jyutping/rime-schema-jyutping
+#
+# 專門保留粵語中一些有别於廣州話的高州話辭彙及口語讀音。
+# 特殊口音，例如最明顯的附加或加重鼻音，以及提高聲調，就通通不詳細記錄了。
+# 推薦大家去看珠江電視臺放送的《外地媳婦本地郎》，學學裏面「嬌姐」的發音。
+#
+################################################################################
+---
+name: jyutping_zeng-gouzauwaa
+version: '2015.7.16'
+sort: by_weight
+columns: [ text, code ]
+...
+# 〔？〕表示本字甚爲不明，或很可能有音無字。
+#蕩	dong6	逛街。例：周圍～。
+#凝	king4	凝固。例：～住咗。
+#焫	naat3	滾燙。例：好～啊。
+哽	ang2	〔？〕依然。例：～冇回來。
+知	dei1	〔異讀←zi1〕
+叫	eu1	〔異讀←giu3〕
+幾	gei2	〔？〕現在；這裡。
+濃	jung5	味厚；稠糊。
+膠	keu1	粘住了。例：～實。
+狂	kwong2	懼怕。例：～冇～。
+遛	lau1	遊玩。
+撩	liu4	〔？〕閒逛。
+冇	maau5	非；無。例：～愛／～係／～有／有～。
+麪	min1	〔？〕粉軟。
+捺	naat1	用指甲撬。
+泥	nai1	〔？〕髒。
+尿	neu6
+嗌	ngaai3	〔？〕嚼。
+韌	ngan3	〔異讀←ngan6〕柔韌。
+鵝	ngo1	〔異讀←ngo4〕
+儂	nung2	〔異讀←nung4〕小孩。
+儂	nung4	人（多指小孩）。
+愛	oi3	想要。
+處	syu3	地方。例：邊～／嗰～／呢～。
+擁	uk6	〔？〕推重物。
+惡	we3	〔？〕膩；厭惡。例：食～咗／好～。
+隻	zik1	〔異讀←zek3〕例：一～鳮／～～。
+阿公	aa3 gung1	爺爺。
+𤘅孲	aa3 haa1	〔？〕嬰兒。
+阿婆	aa3 po4	婆婆。
+矮瓜	ai2 gwaa1	茄子。
+包粟	baau1 suk1	玉米。
+薄刀	bok6 dou1	屠刀。
+妚爹	bui1 de1	〔？〕姨丈。
+妚奶	bui1 naai5	〔？〕姨媽。
+背窿	bui3 lung3	〔？〕駝背。
+大爹	daai6 de1	伯父。
+大奶	daai6 naai5	伯母。
+鬥死	dau3 sei2	〔？〕作死。
+筷箸	faai3 zyu6	筷子。
+夫乸	fu1 naa2	〔？〕婦女。
+鳮溼	gai1 sap1	鳮肝。
+金瓜	gam1 gwaa1	南瓜。
+姑娘	gu1 noeng2	姑媽。
+姑爺	gu1 ye1	姑丈。
+共儂	gung6 nung4	〔？〕照顧小孩。
+下低	haa6 dai1	下面。
+吃飯	hik1 faan6
+紅蜆	hung4 hin2	蚯蚓。
+舅爹	kau6 de1	舅父。
+舅奶	kau6 naai5	舅母。
+落水	lok6 seoi2	下雨。
+冇愛	maau5 oi3	不要。
+泥湴	nai4 baan6	濕軟的泥地。
+眼睡	ngaan5 seoi6	困倦。
+銀紙	ngan4 zi2	紙幣。
+生膿	saang1 mung1	〔？〕得口腔㿉瘍。
+細儂	sai3 nung2	小孩。
+參薯	sam1 syu5	薯蓣（淮山）。
+睡覺	seoi6 gaau3	廣州話說「瞓覺」。
+睡夢	seoi6 mung6	做夢。
+食晏	sik6 aan3	吃午飯。
+食晚	sik6 maan5	吃晚飯。
+食朝	sik6 ziu1	吃早飯。
+傷食	soeng1 sik6	〔？〕嘴饞。
+上高	soeng6 gou1	上面。
+糖膠	tong4 keu1	糖果。
+回屋	wui4 uk1	回家。
+蕉子	ziu1 zi2	香蕉。
+猪溼	zyu1 sap1	猪肝。
+咁樣子	gam2 joeng6 zi2	這樣。
+糖膠紙	tong4 keu1 zi2	糖果包裝袋。
+蛛巢𦧲	zyu1 daau1 le1	〔？〕蜘蛛網。
+磨磨韌韌	mo4 mo4 ngan3 ngan3	〔？〕磨磨蹭蹭。
+磨廝趿篤	mo4 si1 taat3 duk1	〔？〕慢吞吞。
+嗌麪嗌濃	ngaai3 min1 ngaai3 jung5	〔？〕嚼爛。
+新年大頭	san1 nin5 daai6 tau5	年初。
