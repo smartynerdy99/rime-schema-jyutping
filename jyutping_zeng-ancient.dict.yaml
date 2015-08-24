@@ -31,6 +31,7 @@ columns: [ text, code, weight ]
 華	faa1	0	同「花」。
 許	fu2	0	例：邪～。
 夫	fu4	0	語助詞。
+假	gaak3	0	通「𢓜」。
 訐	gai3	0	直言不諱。
 干	gon3	0	同「幹」。
 共	gung1	0	同「供」；通「恭」。
@@ -43,6 +44,7 @@ columns: [ text, code, weight ]
 厭	jim1	0	例：～～。
 靨	jim2	0	例：瘢～。
 冰	jing4	0	同「凝」。
+僥	jiu4	0	例：僬～。
 月	juk6	0	例：大～氏。
 賣	juk6	0	同「鬻」。
 雍	jung3	0	例：～州。
@@ -52,12 +54,15 @@ columns: [ text, code, weight ]
 說	jyut6	0	通「悅」。
 説	jyut6	0	通「悦」。
 伎	kei4	0	例：維足～～。
+侉	kwaa1	0	通「夸」。
 盧	leoi4	0	古兗州河流名稱。
 佬	liu4	0	例：～～大貌／侾～大貌。
 來	loi6	0	例：勞～。
 徠	loi6	0	例：勞～。
 樂	lok3	0	例：～亭／～陵。
 伯	mak6	0	通「陌」。例：仟～。
+佰	mak6	0	通「陌」。
+黽	min5	0	同「澠」。
 亡	mou4	0	通「無」。
 內	naap6	0	同「納」。
 泥	nai5	0	例：～～。
@@ -66,11 +71,13 @@ columns: [ text, code, weight ]
 馮	pang4	0	例：～河。
 副	pik1	0	例：不坼不～。
 埲	pung1	0	例：塕～。
+信	san1	0	通「伸」。
 洗	sin2	0	同「冼」。
 逹	taat3	-1	〔異體←達〕
 達	taat3	0	例：挑～／佻～。
 剔	tai3	0	同「剃」。
 佗	to1	0	通「他」。
+池	to4	0	同「沱」。
 挑	tou1	0	例：～達。
 菟	tou4	0	例：於～。
 於	wu1	0	例：～菟。
