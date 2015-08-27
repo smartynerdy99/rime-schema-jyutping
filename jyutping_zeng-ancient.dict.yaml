@@ -16,6 +16,7 @@ columns: [ text, code, weight ]
 ...
 伯	baa3	0	通「霸」。
 份	ban1	0	同「彬」。
+儐	ban1	0	通「賓」。
 匕	bei2	0	羹匙。
 北	bui3	0	通「背」。
 倀	caang4	0	獨立貌。
@@ -49,6 +50,7 @@ columns: [ text, code, weight ]
 賣	juk6	0	同「鬻」。
 雍	jung3	0	例：～州。
 與	jyu4	0	同「歟」。
+女	jyu5	0	同「汝」。
 語	jyu6	0	例：～人／～上／～下。
 京	jyun4	0	例：九～。
 說	jyut6	0	通「悅」。
@@ -66,6 +68,7 @@ columns: [ text, code, weight ]
 亡	mou4	0	通「無」。
 內	naap6	0	同「納」。
 泥	nai5	0	例：～～。
+女	neoi6	0	以女嫁人。
 樂	ngaau6	0	例：～業／仁者～山／敬業～群。
 句	ngau1	0	例：～曲／～留。
 亨	paang1	0	通「烹」。
@@ -90,3 +93,4 @@ columns: [ text, code, weight ]
 食	zi6	0	同「飼」。
 召	ziu1	0	同「招」。
 長	zoeng6	0	例：身無～物。
+壯	zong1	0	通「莊」。
