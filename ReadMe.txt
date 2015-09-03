@@ -67,7 +67,7 @@ https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
 - 調整常用字字頻。
 - 調整罕用字字頻。
 - 調整簡化字字頻。
-- 調整正讀、異讀、訓讀、破讀、懶音、错音相關字頻。
+- 調整異讀音字頻。
 
 如發現错音漏音，請先在 chart.txt 做好標記。
 若某字於詞彙中有變音，無必要另添單字字音，除非還有更多詞句使用該字音。
@@ -82,6 +82,7 @@ https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
 粵拼、權重以及備註均可略去不填。
 
 另，在下非專業人士，若有錯漏，敬請多多指正。
+若需要文字整理工具的話請大膽求助。
 
 你亦可以經由其它途徑間接爲該項目作出貢獻：
 
@@ -89,10 +90,17 @@ https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
   開放的粵語網絡辭典。目前尚在開發中。若想參與編輯，請先加入 Facebook 小組：
   https://www.facebook.com/groups/words.hk.editors/
 
+* 开放词典网：粤语词典
+  http://kaifangcidian.com/han/yue/
+
+* Learn Cantonese!
+  http://www.cantonese.sheik.co.uk/
+
 
 版權相關
 ========
 
 該項目的資料未經同意，不可用於商業用途。
+（不建議這麼做，半成品容易錯教人，直接教口語更好。）
 
 使用時請注明來源，確保大衆可以隨時取得最新信息，推進粵語發展。多謝合作。
