@@ -31,7 +31,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2015.8.23'
+version: '2015.10.17'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -87,7 +87,7 @@ columns: [ text, code ]
 拽	ngai1	〔？〕拉。例：～高啲。
 皺	ngau3	〔異讀←zau3〕例：整～咧。
 鵝	ngo1	〔異讀←ngo4〕
-濃	ngung5	味厚或兼稠糊。例：好～。
+濃	ngung5	〔？〕味厚或兼稠糊。例：好～。
 儂	nung2	〔異讀←nung4〕小孩。
 儂	nung4	人（多指小孩）。
 愛	oi3	想要。例：～冇～。
@@ -95,6 +95,7 @@ columns: [ text, code ]
 掉	teu2	〔？〕掉落。例：整～落地／打～碗湯。
 擁	uk6	〔？〕推重物。例：～下張檯。
 噁	we3	〔？〕膩；厭惡。例：食～咗／好～。
+兔	tu3	〔異讀←tou3〕
 揤	zat6	擦拭。例：～鼻／～手／～干淨／～冇甩。
 隻	zik1	〔異讀←zek3〕例：一～鳮／～～。
 捉	zok3	〔異讀←zuk1〕例：～實／～到。
@@ -130,6 +131,7 @@ columns: [ text, code ]
 吃飯	hik1 faan6
 回來	wui5 loi5
 紅蜆	hung4 hin2	蚯蚓。
+硬固	ngaang6 gu3	固執，廣州話「硬頸」。
 骾頸	kaang2 geng2	〔？〕咽喉阻塞。例：呢種面包好～。
 舅爹	kau6 de1	舅父。
 舅奶	kau6 naai5	舅母。
@@ -138,7 +140,7 @@ columns: [ text, code ]
 落水	lok6 seoi2	下雨。
 冇好	maau5 hou2	不要。例：～打交／～飲酒。
 冇愛	maau5 oi3	不想要。
-泥湴	nai4 baan6	濕軟的泥地。
+泥湴	nai4 baan6	泥濘。
 眼睡	ngaan5 seoi6	困倦，廣州話「眼瞓」。例：好～。
 銀紙	ngan4 zi2	紙幣；錢幣。
 生腔	saang1 mung1	〔？〕得口腔㿉瘍。
@@ -161,13 +163,13 @@ columns: [ text, code ]
 著促	zoek6 cuk1	〔？〕嗆到喉嚨。
 猪溼	zyu1 sap1	猪肝。
 噉樣子	gam2 joeng6 zi2	這樣。簡略讀爲「噉子」。
-又一箇	jau6 jat1 go3	〔？〕舊事重演。例：佢近排～咧。
+又一過	jau6 jat1 go3	〔？〕舊事重演。例：佢近排～咧。
 圓軲轆	jyun5 gu2 lu2	圓圓的。例：個眼睛～嘅。
 澀褶褶	ngaap3 cep6 cep6	〔？〕口感不順滑。
 糖膠紙	tong4 keu1 zi2	糖果包裝袋。
 蛛巢𦧲	zyu1 daau1 le1	〔？〕蜘蛛網。
 逗是逗非	dau3 si6 dau3 fei1	搬弄是非，惹是生非，撩是生非，撩是逗非。
-未有一箇	mei6 jau5 jat1 go3	〔？〕事還沒完。例：都～就走咧。
+未有一過	mei6 jau5 jat1 go3	〔？〕事還沒完。例：都～就走咧。
 磨磨韌韌	mo4 mo4 ngan3 ngan3	〔？〕磨磨蹭蹭。
 磨廝趿篤	mo4 si1 taat3 duk1	〔？〕慢吞吞。
 嗌麪嗌濃	ngaai3 min1 ngaai3 ngung5	〔？〕嚼爛。
