@@ -31,7 +31,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2015.10.17'
+version: '2015.11.22'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -60,6 +60,7 @@ columns: [ text, code ]
 知	dei1	知道。例：～冇～。
 叫	eu1	〔異讀←giu3〕
 拗	eu2	〔異讀←aau2〕例：～斷／～爛。
+趌	gat6	〔？〕走。例：周圍～／又～去處呢。
 幾	gei2	〔？〕這裡；現在。例：在～／～在打工。
 交	geu1	〔異讀←gaau1〕例：橫～十字／打～／鬧～。
 絞	geu2	〔異讀←gaau2〕例：～絲旁／～斷。
@@ -93,9 +94,9 @@ columns: [ text, code ]
 愛	oi3	想要。例：～冇～。
 挲	saa1	〔？〕用手去碰。例：亂～／～來～去。
 掉	teu2	〔？〕掉落。例：整～落地／打～碗湯。
+兔	tu3	〔異讀←tou3〕
 擁	uk6	〔？〕推重物。例：～下張檯。
 噁	we3	〔？〕膩；厭惡。例：食～咗／好～。
-兔	tu3	〔異讀←tou3〕
 揤	zat6	擦拭。例：～鼻／～手／～干淨／～冇甩。
 隻	zik1	〔異讀←zek3〕例：一～鳮／～～。
 捉	zok3	〔異讀←zuk1〕例：～實／～到。
@@ -129,9 +130,7 @@ columns: [ text, code ]
 下地	haa5 dei6	下到地面。
 下低	haa6 dai1	下面。
 吃飯	hik1 faan6
-回來	wui5 loi5
 紅蜆	hung4 hin2	蚯蚓。
-硬固	ngaang6 gu3	固執，廣州話「硬頸」。
 骾頸	kaang2 geng2	〔？〕咽喉阻塞。例：呢種面包好～。
 舅爹	kau6 de1	舅父。
 舅奶	kau6 naai5	舅母。
@@ -142,6 +141,7 @@ columns: [ text, code ]
 冇愛	maau5 oi3	不想要。
 泥湴	nai4 baan6	泥濘。
 眼睡	ngaan5 seoi6	困倦，廣州話「眼瞓」。例：好～。
+硬固	ngaang6 gu3	固執，廣州話「硬頸」。
 銀紙	ngan4 zi2	紙幣；錢幣。
 生腔	saang1 mung1	〔？〕得口腔㿉瘍。
 細儂	sai3 nung2	小孩。
@@ -157,6 +157,7 @@ columns: [ text, code ]
 頭毛	tau4 mou1	頭髮。
 糖膠	tong4 keu1	糖果。
 回屋	wui4 uk1	回家。
+回來	wui5 loi5
 集味	zaap6 mei6	入味。例：好～。
 蕉子	ziu1 zi2	香蕉。
 著便	zoek6 bin6	以之爲便。例：成日要我幫你排隊～係未。
