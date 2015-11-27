@@ -31,7 +31,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2015.11.27'
+version: '2015.11.28'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -90,9 +90,10 @@ columns: [ text, code ]
 嗌	ngaai3	〔？〕嚼。
 澀	ngaap3	〔？〕口感不順滑。例：好～。
 拽	ngai1	〔？〕拉。例：～高啲。
+熠	ngapp3	耀眼；閃爍。例：盞燈咁～嘅／～下～下。
 皺	ngau3	〔異讀←zau3〕例：整～咧。
 鵝	ngo1	〔異讀←ngo4〕
-濃	ngung5	〔？〕味厚或兼稠糊。例：好～。
+濃	ngung5	〔？〕味厚或兼稠糊。例：好～／～茶。
 儂	nung2	〔異讀←nung4〕小孩。
 儂	nung4	人（多指小孩）。
 愛	oi3	想要。例：～冇～。
@@ -150,6 +151,7 @@ columns: [ text, code ]
 落水	lok6 seoi2	下雨。
 冇好	maau5 hou2	不要。例：～打交／～飲酒。
 冇愛	maau5 oi3	不想要。
+冇使	maau5 sai2	不必。
 泥湴	nai4 baan6	泥濘。
 眼睡	ngaan5 seoi6	困倦，廣州話「眼瞓」。例：好～。
 硬固	ngaang6 gu3	固執，廣州話「硬頸」。
