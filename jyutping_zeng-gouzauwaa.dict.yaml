@@ -31,7 +31,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2015.11.23'
+version: '2015.11.27'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -62,6 +62,7 @@ columns: [ text, code ]
 實	dei6	〔異讀←sat6〕密實。例：關～埲門／封～把口。
 叫	eu1	〔異讀←giu3〕
 拗	eu2	〔異讀←aau2〕例：～斷／～爛。
+㗎	gaa4	〔？〕用工具爬。例：～上～落。
 趌	gat6	〔？〕走。例：周圍～／又～去處呢。
 幾	gei2	〔？〕這裡；現在。例：在～／～在打工。
 交	geu1	〔異讀←gaau1〕例：橫～十字／打～／鬧～。
@@ -96,6 +97,9 @@ columns: [ text, code ]
 儂	nung4	人（多指小孩）。
 愛	oi3	想要。例：～冇～。
 挲	saa1	〔？〕用手去碰。例：亂～／～來～去。
+處	syu1	〔？〕哪個。例：～處／～隻。
+處	syu3	〔？〕哪個；哪裏。例：～隻／～有做錯。
+處	syun1	〔異讀←syu1〕哪個。例：～處／～隻。
 掉	teu2	〔？〕掉落。例：整～落地／打～碗湯。
 兔	tu3	〔異讀←tou3〕
 擁	uk6	〔？〕推重物。例：～下張檯。
@@ -106,8 +110,8 @@ columns: [ text, code ]
 阿公	aa3 gung1	爺爺。
 𤘅孲	aa3 haa1	〔？〕嬰兒。
 阿婆	aa3 po4	婆婆。
-啊度	aa4 dou6	〔？〕那裏。
-啊裏	aa4 neoi5	〔？〕那裏。
+啊裏	aa4 neoi5	〔？〕那裏面。
+啊頭	aa4 tau5	〔？〕那邊。
 包粟	baau1 suk1	玉米。
 薄刀	bok6 dou1	屠刀。
 步梯	bou6 tai1	梯子。
@@ -123,9 +127,13 @@ columns: [ text, code ]
 獨令	duk4 ning5	〔？〕特地。例：我～買定棵青菜。
 筷箸	faai3 zyu6	筷子。
 飯甌	faan6 au1	飯碗。
+飯焦	faan6 ngeu1	〔？〕
 夫乸	fu1 naa2	婦女。
 鳮溼	gai1 sap1	鳮肝。
 金瓜	gam1 gwaa1	南瓜。
+嗰頭	go2 tau5	〔？〕那邊。
+嗰裏	go3 neoi5	〔？〕這裏面。
+嗰頭	go3 tau5	〔？〕這邊。
 姑娘	gu1 noeng2	姑媽。
 姑爺	gu1 ye1	姑丈。
 共儂	gung6 nung4	〔？〕照顧小孩。
@@ -169,6 +177,7 @@ columns: [ text, code ]
 噉樣子	gam2 joeng6 zi2	這樣。簡略讀爲「噉子」。
 又一過	jau6 jat1 go3	〔？〕舊事重演。例：佢近排～咧。
 圓軲轆	jyun5 gu2 lu2	圓圓的。例：個眼睛～嘅。
+乜骨頭	mat1 gwat1 tau5	什麼。例：做～。
 澀褶褶	ngaap3 cep6 cep6	〔？〕口感不順滑。
 糖膠紙	tong4 keu1 zi2	糖果包裝袋。
 蛛巢𦧲	zyu1 daau1 le1	〔？〕蜘蛛網。
