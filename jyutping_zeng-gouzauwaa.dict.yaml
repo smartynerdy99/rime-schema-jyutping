@@ -31,7 +31,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2015.11.30'
+version: '2015.12.02'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -56,6 +56,7 @@ columns: [ text, code ]
 在	coi5	〔異讀←zoi6〕例：～這裏。
 沖	cong3	〔異讀←cung1〕例：～一下／～廁所。
 蛆	cyu1	蛆蟲。例：一條～。
+跌	daat3	〔異讀←dit3〕例：～落地／將玩具～到到處都係。
 蹋	dap6	〔？〕著地；摔落。例：～跤／～爛／～落地。
 嘚	dat1	〔？〕擺放。例：～在食飯檯上高。
 知	dei1	〔異讀←zi1〕知道。例：～冇～。
@@ -101,7 +102,7 @@ columns: [ text, code ]
 愛	oi3	想要。例：～冇～。
 挲	saa1	〔？〕用手去碰。例：亂～／～來～去。
 處	syu1	〔？〕哪個。例：～處／～隻。
-處	syu3	〔？〕哪個；哪裏。例：～隻／～有做錯。
+處	syu3	〔？〕哪個；哪裏。例：～隻／到～／～有做錯。
 處	syun1	〔異讀←syu1〕哪個。例：～處／～隻。
 掉	teu2	〔？〕掉落。例：整～落地／打～碗湯。
 兔	tu3	〔異讀←tou3〕
@@ -182,10 +183,11 @@ columns: [ text, code ]
 噉樣子	gam2 joeng6 zi2	這樣。簡略讀爲「噉子」。
 又一過	jau6 jat1 go3	〔？〕舊事重演。例：佢近排～咧。
 圓軲轆	jyun5 gu2 lu2	圓圓的。例：個眼睛～嘅。
-乜骨頭	mat1 gwat1 tau5	什麼。例：做～。
+乜骨頭	mat1 gwat1 tau5	什麼，可略讀爲「乜骨」。例：做～。
 澀褶褶	ngaap3 cep6 cep6	〔？〕口感不順滑。
 糖膠紙	tong4 keu1 zi2	糖果包裝袋。
 蛛巢𦧲	zyu1 daau1 le1	〔？〕蜘蛛網。
+逗事逗？	dau3 si6 dau3 dep3	逗是逗非。
 逗是逗非	dau3 si6 dau3 fei1	搬弄是非，惹是生非，撩是生非，撩是逗非。
 未有一過	mei6 jau5 jat1 go3	〔？〕事還沒完。例：都～就走咧。
 磨磨韌韌	mo4 mo4 ngan3 ngan3	〔？〕磨磨蹭蹭。
