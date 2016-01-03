@@ -31,7 +31,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2015.12.24'
+version: '2016.1.3'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -67,6 +67,7 @@ columns: [ text, code ]
 㗎	gaa4	〔？〕用工具爬。例：～上～落。
 趌	gat6	〔？〕走。例：周圍～／又～去處呢。
 幾	gei2	〔？〕這裡；現在。例：在～／～在打工。
+狹	gep6	〔異讀←gip6〕例：樓梯咁～。
 交	geu1	〔異讀←gaau1〕例：橫～十字／打～／鬧～。
 絞	geu2	〔異讀←gaau2〕例：～絲旁／～斷。
 撬	geu6	例：～開／～爛把鎖。
@@ -199,8 +200,9 @@ columns: [ text, code ]
 暗遢遢	on3 taat3 taat3	昏暗。
 糖膠紙	tong4 keu1 zi2	糖果包裝袋。
 蛛巢𦧲	zyu1 daau1 le1	〔？〕蜘蛛網。
-逗事逗？	dau3 si6 dau3 dep3	逗是逗非。
+鬥事鬥喋	dau3 si6 dau3 dep3	〔？〕惹是生非。
 逗是逗非	dau3 si6 dau3 fei1	搬弄是非，惹是生非，撩是生非，撩是逗非。
+黑日暗遢	hak1 mik1 on3 taat3	〔？〕昏暗。例：～喺度做咩。
 未有一過	mei6 jau5 jat1 go3	〔？〕事還沒完。例：都～就走咧。
 磨磨韌韌	mo4 mo4 ngan3 ngan3	〔？〕磨磨蹭蹭。
 磨廝趿篤	mo4 si1 taat3 duk1	〔？〕慢吞吞。
