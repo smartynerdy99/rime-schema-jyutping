@@ -31,7 +31,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2016.1.3'
+version: '2016.1.10'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -65,6 +65,7 @@ columns: [ text, code ]
 叫	eu1	〔異讀←giu3〕
 拗	eu2	〔異讀←aau2〕例：～斷／～爛。
 㗎	gaa4	〔？〕用工具爬。例：～上～落。
+艮	gan3	〔？〕靜止；靜置。例：杯水～到凍嗮／飯菜都～凍咧／～凍盤涼粉。
 趌	gat6	〔？〕走。例：周圍～／又～去處呢。
 幾	gei2	〔？〕這裡；現在。例：在～／～在打工。
 狹	gep6	〔異讀←gip6〕例：樓梯咁～。
@@ -126,6 +127,7 @@ columns: [ text, code ]
 阿婆	aa3 po4	婆婆。
 啊裏	aa4 neoi5	〔？〕那裏面。
 啊頭	aa4 tau5	〔？〕那邊。
+庵屋	am1 uk1	〔？〕呆在家裏。例：成日～唔出街。
 包粟	baau1 suk1	玉米。
 薄刀	bok6 dou1	屠刀。
 步梯	bou6 tai1	梯子。
