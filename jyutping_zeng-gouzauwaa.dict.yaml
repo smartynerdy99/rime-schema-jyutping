@@ -31,7 +31,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2016.1.13'
+version: '2016.1.17'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -63,6 +63,7 @@ columns: [ text, code ]
 知	dei1	〔異讀←zi1〕知道。例：～冇～。
 實	dei6	〔異讀←sat6〕密實。例：關～埲門／封～把口。
 掉	deu3	〔？〕（液體）掉落。例：～落來／～到周邊都係。
+䟓	ding3	〔？〕獨行。例：又～去邊處。
 叫	eu1	〔異讀←giu3〕
 拗	eu2	〔異讀←aau2〕例：～斷／～爛。
 㗎	gaa4	〔？〕用工具爬。例：～上～落。
@@ -91,7 +92,7 @@ columns: [ text, code ]
 撩	liu4	〔？〕挑逗；玩。例：去邊處～。
 路	lu6	〔異讀←lou6〕
 冇	maau5	非；無。例：～愛／～係／～有／有～。
-麪	min1	〔？〕粉軟。例：好～。
+麪	min1	粉軟。例：好～。
 𪐀	naa1	〔？〕粘住。例：～住咗／攞塊胶布～實張紙。
 捺	naat1	〔？〕用指甲撬或捏。例：冇～我耳仔／～開個盖。
 泥	nai1	〔？〕髒。例：好～／搞～。
@@ -162,6 +163,7 @@ columns: [ text, code ]
 櫃胎	gwai6 toi1	〔？〕抽屉。例：攪～。
 下地	haa5 dei6	下到地面。
 下低	haa6 dai1	下面。
+厚皮	hau6 pei5	充耳不聞。例：咁～聽冇到咩。
 紅蜆	hung4 hin2	蚯蚓。
 骾頸	kaang2 geng2	〔？〕咽喉阻塞。例：呢種面包好～。
 舅爹	kau6 de1	舅父。
@@ -202,6 +204,7 @@ columns: [ text, code ]
 又一過	jau6 jat1 go3	〔？〕舊事重演。例：佢近排～咧。
 圓軲轆	jyun5 gu2 lu2	圓圓的。例：個眼睛～嘅。
 乜骨頭	mat1 gwat1 tau5	什麼，可略讀爲「乜骨」。例：做～。
+麪䴿䴿	min1 mung3 mung3	極爲粉軟。例：～邊度好食啫。
 硬喀喀	ngaan6 kaak6 kaak6	〔？〕硬邦邦。
 澀褶褶	ngaap3 cep6 cep6	〔？〕口感不順滑。
 暗遢遢	on3 taat3 taat3	昏暗。
