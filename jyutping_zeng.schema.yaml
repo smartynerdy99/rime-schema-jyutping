@@ -10,7 +10,7 @@
 schema:
   schema_id: jyutping_zeng
   name: 粵拼．正
-  version: '2015.6.27'
+  version: '2016.1.21'
   author:
     - Jak Wings <https://github.com/jakwings/rime-schema-jyutping>
   description: |
@@ -68,10 +68,10 @@ engine:
     - script_translator@cangjie_lookup
     #- reverse_lookup_translator  # 於 RIME 1.0 後被 reverse_lookup_filter 取代
   filters:
-    - simplifier
-    - uniquifier
     - reverse_lookup_filter@pinyin_reverse_lookup
     - reverse_lookup_filter@cangjie_reverse_lookup
+    - simplifier
+    - uniquifier
     #- cjk_minifier  # 令 script_translator 支持擴展字符集開關
 
 simplifier:  # 繁簡轉換
@@ -201,18 +201,10 @@ cangjie_lookup:
 pinyin_reverse_lookup:
   tags: [ pinyin_lookup ]
   dictionary: *dict
-  overwrite_comment: true   # 覆蓋其他提示
-  comment_format:
-    - xform/^/〔/
-    - xform/$/〕/
 
 cangjie_reverse_lookup:
   tags: [ cangjie_lookup ]
   dictionary: *dict
-  overwrite_comment: true   # 覆蓋其他提示
-  comment_format:
-    - xform/^/〔/
-    - xform/$/〕/
 
 key_binder:
   import_preset: default
