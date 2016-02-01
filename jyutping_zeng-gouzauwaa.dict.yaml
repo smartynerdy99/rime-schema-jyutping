@@ -32,7 +32,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2016.1.30'
+version: '2016.2.1'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -138,6 +138,7 @@ columns: [ text, code ]
 挲	saa1	用手去碰。例：亂～／～來～去。
 鍘	saat3	〔？〕切出的一塊。例：將蘋果切開兩～／兩～蘋果。
 覾	sam3	〔？〕看。例：～一下／～到。
+尚	sieng1	〔？〕喜歡；貪戀。例：～飲～食／又～人哋嘅嘢食／鬼咁～。
 處	syu1	〔？〕哪個。例：～處／～隻。
 處	syu3	哪個；哪裏。例：～隻／到～／～有做錯。
 處	syun1	〔異讀←syu1〕哪個。例：～處／～隻。
@@ -222,7 +223,6 @@ columns: [ text, code ]
 食開	sik6 hoi1	吃過；吃完。例：～晚飯未。
 食晚	sik6 maan5	吃晚飯。
 食朝	sik6 ziu1	吃早飯。
-相食	soeng1 sik6	〔？〕嘴饞。例：好～。
 上高	soeng6 gou1	上面。
 頭菜	tau4 coi3	由大白菜曬製的菜乾。
 頭毛	tau4 mou1	頭髮。
@@ -238,6 +238,7 @@ columns: [ text, code ]
 噉樣子	gam2 joeng6 zi2	這樣。簡略讀爲「噉子」。
 又一過	jau6 jat1 go3	〔？〕舊事重演。例：佢近排～咧。
 圓軲轆	jyun5 gu2 lu2	圓圓的。例：個眼睛～嘅。
+冇見路	maau5 gin3 lu6	眼瞎。例：睇～／靠咁近電視機～咩。
 乜骨頭	mat1 gwat1 tau5	什麼，可略讀爲「乜骨」。例：做～。
 麪䴿䴿	min1 mung3 mung3	極爲粉軟。例：～邊度好食啫。
 硬喀喀	ngaan6 kak6 kak6	〔？〕硬邦邦。
