@@ -25,6 +25,19 @@
 #   中入	33	3/8(3)	腳 kɛk
 #   阳入	22	6/9(2)	麥 mɐk
 #
+# 常見音變：
+#   陰去→陰平
+#   陽平→陰平
+#   陽平→陽上
+#   aau→eu
+#   ek→ik
+#   iu→eu
+#   j→ng
+#   ou→u
+#   o→oe
+#   ung→ong
+#   z→ng
+#
 # 蒐集者：
 #   jakwings：無純正高州地區口音，兼無語音、訓詁學基础。有生之年必多加學習研究。
 # 歡迎有心人士接力。
@@ -57,6 +70,7 @@ columns: [ text, code ]
 步	bu6	〔異讀←bou6〕
 搬	bun1	搬弄。例：在上高～乜嘢。
 捧	bung2	〔異讀←pung2〕例：～過來。
+搊	cau1	〔？〕束緊。例：～好條褲／～高衫袖。
 坐	coe5	〔異讀←co5〕〔動〕
 在	coi5	〔異讀←zoi6〕〔動〕例：～這裏。
 沖	cong3	〔異讀←cung1〕例：～一下／～廁所。
@@ -104,7 +118,7 @@ columns: [ text, code ]
 𠽤	kik1	〔？〕部位。例：嗰～／啊～/中間一～。
 扛	kong1	〔異讀←gong1〕例：～米。
 刮	kwek4	〔異讀←gwaat3〕例：亂～／～爛／～花齊咧。
-惶	kwong2	〔異讀←wong4〕懼怕。例：～冇～。
+惶	kwong5	〔異讀←wong4〕懼怕。例：～冇～。
 論	lang6	〔異讀←leon6〕例：冇～／～斤稱／～嚿／～袋／～揸米。
 遛	lau1	〔異讀←lau6〕例：～去公園。
 咧	le6	〔？〕語氣詞，同「了」。例：冇～／食開～。
@@ -149,10 +163,10 @@ columns: [ text, code ]
 泡	peu1	〔異讀←paau1〕〔名〕例：起～。
 挲	saa1	用手去碰。例：亂～／～來～去。
 鍘	saat3	〔？〕切出的一塊。例：將蘋果切開兩～／兩～蘋果。
-捎	saau1	例：用勺將菜～起身。
+？	saau1	〔？〕（用）帶篩孔的勺。例：～起身／～一下。
 覾	sam3	〔？〕看。例：～一下／～到。
 信	san3	〔異讀←seon3〕
-勺	siak6	〔異讀←soek3〕〔名〕
+勺	sep6	〔異讀←soek3〕〔名〕
 尚	sieng1	〔？〕喜歡；貪戀。例：～飲～食／又～人哋嘅嘢食／鬼咁～。
 鎖	soe2	〔異讀←so2〕
 處	syu1	〔？〕哪個。例：～處／～隻。
@@ -226,6 +240,7 @@ columns: [ text, code ]
 爛逗	laan6 dau3	〔？〕頑皮。例：眞係～。
 爛開	laan6 hoi1	弄破。例：搞～。
 落水	lok6 seoi2	下雨。
+慢摩	maan6 mo1	〔？〕慢吞吞。
 冇好	maau5 hou2	不要。例：～打交／～飲酒。
 冇愛	maau5 oi3	不想要。
 冇使	maau5 sai2	不必。
@@ -271,9 +286,11 @@ columns: [ text, code ]
 鬥事鬥喋	dau3 si6 dau3 dep3	〔？〕惹是生非。
 逗是逗非	dau3 si6 dau3 fei1	搬弄是非，惹是生非，撩是生非，撩是逗非。
 黑冪暗闥	haak1 mik1 on3 taat3	〔？〕昏暗。例：～喺度做咩。
+慢慢摩摩	maan6 maan6 mo3 mo3	〔？〕磨磨蹭蹭。
 未有一過	mei6 jau5 jat1 go3	〔？〕事還沒完。例：都～就走咧。
 磨磨韌韌	mo4 mo4 ngan3 ngan3	〔？〕磨磨蹭蹭。
 磨廝趿篤	mo4 si1 taat3 duk1	〔？〕慢吞吞。
 望天望地	mong6 tin1 mong6 dei6	不直視前方。例：行路成日～小心撞車。
 嗌麪嗌濃	ngaai3 min1 ngaai3 ngung5	〔？〕嚼爛。
 新年大頭	san1 nin5 daai6 tau5	年初。
+淡水披瀝	taam4 seoi2 pek3 lep3	〔？〕味淡。
