@@ -46,7 +46,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2016.2.13'
+version: '2016.2.15'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -73,6 +73,8 @@ columns: [ text, code ]
 盦	am1	覆蓋。例：～實／～壞。
 仍	ang2	〔？〕仍然。例：～冇回來。
 ？	baat3	〔？〕墜落。例：牆磚又～落來／埲聲～落來。
+餅	bing2	〔異讀←beng2〕〔量〕例：煮一兩～麫。
+摒	bing3	去除；清理。例：～出去／～走／～來～去。
 波	boe1	〔？〕泡沫。
 步	bu6	〔異讀←bou6〕
 簿	bu6	〔異讀←bou6〕例：電話～／笔記～／呢本～。
@@ -104,7 +106,7 @@ columns: [ text, code ]
 翻	feng1	〔異讀←faan1〕〔動〕例：～轉。
 敷	fu3	〔？〕撒開；展開；塗抹。例：～被／～開／亂～／～來～去。
 㗎	gaa6	〔？〕用工具爬。例：～上～落。
-艮	gan3	〔？〕靜止；靜置；冰涼。例：杯水～到凍嗮／飯菜都～凍咧／～凍盤涼粉／好～。
+艮	gan3	〔？〕靜止；靜置；冰涼。例：杯水～到凍嗮／飯菜都～凍了／～凍盤涼粉／好～。
 趌	gat6	走。例：周圍～／又～去處呢。
 這	gei2	〔？〕這裏；現在。例：在～／～在打工。
 狹	gep6	〔異讀←gip6〕例：樓梯咁～。
@@ -128,14 +130,14 @@ columns: [ text, code ]
 勻	jan5	〔？〕勻稱。例：好～／扯～／鋪～。
 認	jan6	〔異讀←jing6〕
 舀	jiu2	〔異讀←jiu5〕例：～水／～湯。
-涌	jong2	〔異讀←jung2〕例：湯～出來咧。
+涌	jong2	〔異讀←jung2〕例：湯～出來了。
 摳	kau1	提；抬。例：～起身／～高。
 膠	keu1	〔異讀←gaau1〕粘住。例：～實。
 攪	keu3	〔異讀←gaau2〕肆意擺弄。例：冇～／～亂嗮／～壞把鎖。
 𠽤	kik1	〔？〕部位。例：嗰～／啊～/中間一～。
 扛	kong1	〔異讀←gong1〕例：～米／～起身。
 捆	kwaan2	〔？〕〔量〕棵。例：夾一～青菜。
-刮	kwek4	〔異讀←gwaat3〕例：亂～／～爛／～花齊咧。
+刮	kwek4	〔異讀←gwaat3〕例：亂～／～爛／～花齊了。
 惶	kwong5	〔異讀←wong4〕懼怕。例：～冇～。
 論	lang6	〔異讀←leon6〕例：冇～／～斤稱／～嚿／～袋／～揸米。
 遛	lau1	〔異讀←lau6〕例：～去公園。
@@ -156,7 +158,7 @@ columns: [ text, code ]
 泥	nai1	〔？〕髒。例：好～／搞～。
 拈	nem1	〔異讀←nim1〕拿。例：～出來。
 那	neoi2	〔？〕那裏。例：在～。
-裊	neu2	〔？〕蜷曲彫零。例：樹葉～嗮咧。
+裊	neu2	〔？〕蜷曲彫零。例：樹葉～嗮了。
 尿	neu6	〔異讀←niu6〕例：屙～／賴～。
 掗	ngaa1	〔？〕手持。例：～實／～住／～緊。
 嗌	ngaai3	〔？〕嚼。
@@ -169,9 +171,9 @@ columns: [ text, code ]
 仍	ngan1	〔？〕例：將麪包～冰～凍食。
 ？	ngan1	〔？〕搗碎；磨碎。例：～麪～茸。
 掙	ngan3	〔？〕拉扯。例：～斷／～甩／～爛蚊帳。
-皺	ngau3	〔異讀←zau3〕例：整～咧。
+皺	ngau3	〔異讀←zau3〕例：整～了。
 錐	ngeoi1	〔異讀←zeoi1〕鑽刺。例：～穿／～爛。
-焦	ngeu1	〔異讀←ziu1〕燒焦。例：煮～齊咧／飯～／好多～碎。
+焦	ngeu1	〔異讀←ziu1〕燒焦。例：煮～齊了／飯～／好多～碎。
 鵝	ngo1	〔異讀←ngo4〕
 濃	ngung5	〔異讀←nung4〕味厚或兼稠糊。例：好～／～茶。
 糯	noe6	〔異讀←no6〕
@@ -285,7 +287,7 @@ columns: [ text, code ]
 睡覺	seoi6 gaau3	廣州話「瞓覺」。
 睡夢	seoi6 mung6	做夢，廣州話「發夢」。例：尋晚～見到阿公。
 食晏	sik6 aan3	吃午飯。
-食齊	sik6 cai5	吃光；吃完。例：啲菜早就～咧。
+食齊	sik6 cai5	吃光；吃完。例：啲菜早就～了。
 食開	sik6 hoi1	吃過；吃完。例：～晚飯未。
 食晚	sik6 maan5	吃晚飯。
 食朝	sik6 ziu1	吃早飯。
@@ -296,7 +298,7 @@ columns: [ text, code ]
 頭毛	tau4 mou1	頭髮。
 糖膠	tong4 keu1	糖果。
 回屋	wui5 uk1	回家。
-有功	yau5 gung1	（人）幫得上忙。例：好～咩／～死咧。
+有功	yau5 gung1	（人）幫得上忙。例：好～咩／～死了。
 集味	zaap6 mei6	入味。例：好～。
 遮被	ze1 pei5	蓋被子。
 蕉子	ziu1 zi2	香蕉。
@@ -308,7 +310,7 @@ columns: [ text, code ]
 灰水籺	fui1 seoi2 it3	鹼水粽（梘水粽）。
 噉樣子	gam2 joeng6 zi2	這樣。簡略讀爲「噉子」。
 鹹𠹌𠹌	haam5 nang3 nang3	〔？〕很鹹。
-又一過	jau6 jat1 go3	〔？〕舊事重演。例：佢近排～咧。
+又一過	jau6 jat1 go3	〔？〕舊事重演。例：佢近排～了。
 圓軲轆	jyun5 gu2 lu2	圓圓的。例：個眼睛～嘅。
 冇見路	maau5 gin3 lu6	眼瞎。例：睇～／靠咁近電視機～咩。
 乜骨頭	mat1 gwat1 tau5	什麼，可略讀爲「乜骨」。例：做～。
@@ -325,7 +327,7 @@ columns: [ text, code ]
 落水婆娑	lok6 seoi2 baa6 saa1	〔？〕下大雨。
 唔忪唔惺	m4 sung1 m4 sing2	睡眼惺忪。
 慢慢摩摩	maan6 maan6 mo3 mo3	〔？〕磨磨蹭蹭。
-未有一過	mei6 jau5 jat1 go3	〔？〕事還沒完。例：都～就走咧。
+未有一過	mei6 jau5 jat1 go3	〔？〕事還沒完。例：都～就走了。
 磨磨韌韌	mo4 mo4 ngan3 ngan3	〔？〕磨磨蹭蹭。
 磨廝趿篤	mo4 si1 taat3 duk1	〔？〕慢吞吞。
 望天望地	mong6 tin1 mong6 dei6	不直視前方。例：行路成日～小心撞車。
@@ -339,11 +341,11 @@ columns: [ text, code ]
 # 一、〔動〕×２疊字表示強調兼作修飾語
 #
 # 音：bi6 bi1 waan2 waan2 bu6 ce1 maau5 dei1 heoi3 bin1 syu3 le6
-# 字：ＢＢ玩玩部車冇知去邊處咧
+# 字：ＢＢ玩玩部車冇知去邊處了
 # 譯：寶寶玩的車子不知到哪去了
 #
 # 音：nei5 goe2 goe2 tiu5 mou4 gan1 fong3 syu3 le6
-# 字：你裹裹條毛巾放處咧
+# 字：你裹裹條毛巾放處了
 # 譯：你裹身子的毛巾放哪了
 #
 # 音：ping4 si5 saat3 saat3 tiu5 ngaa4 saat3 ne1
@@ -351,6 +353,6 @@ columns: [ text, code ]
 # 譯：平時用的那條牙刷呢
 #
 # 音：zi1 cin5 haang5 haang5 tiu4 gaai1 jau6 ceot1 ce1 wo6 le6
-# 字：之前行行條街又出車禍咧
+# 字：之前行行條街又出車禍了
 # 譯：以前經常走的那條街又出車禍了
 # B }
