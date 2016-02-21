@@ -46,7 +46,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2016.2.18'
+version: '2016.2.21'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -69,7 +69,7 @@ columns: [ text, code ]
 # 以下部分字詞雖亦與廣州話或普通話有所重疊，但讀音和用法稍有不同，特爲記錄。
 # 〔異讀〕標記並不表明來源先後順序，亦不表示高州話無相關讀音，僅作比較之用。
 # A {
-扼	ak1	〔？〕按。例：～掣／～著盞燈。
+擪	aat1	〔？〕按。例：～掣／～著盞燈。
 盦	am1	覆蓋。例：～實／～壞。
 仍	ang2	〔？〕仍然。例：～冇回來。
 ？	baat3	〔？〕墜落。例：牆磚又～落來／埲聲～落來。
@@ -231,6 +231,7 @@ columns: [ text, code ]
 背窿	bui3 lung3	〔？〕駝背。
 餐間	caan1 gaan1	用餐期間。例：～就吃一碗飯。
 牆根	cang4 gan1	〔？〕牆壁。例：凭住～。
+？脆	cap1 ceoi3	〔？〕爽脆。
 大爹	daai6 de1	伯父。
 大味	daai6 mei6	味道過濃。例：好～。
 大奶	daai6 naai5	伯母。
@@ -255,6 +256,7 @@ columns: [ text, code ]
 嗰低	go3 dai1	〔？〕這下面。
 嗰高	go3 gou1	〔？〕這上面。
 嗰裏	go3 neoi5	〔？〕這裏面。
+嗰？	go3 nik1	〔？〕這些。
 嗰頭	go3 tau5	〔？〕這邊。
 姑娘	gu1 noeng2	姑媽。
 姑爺	gu1 ye1	姑丈。
@@ -267,6 +269,8 @@ columns: [ text, code ]
 號記	hou6 gei3	胎記。
 紅蜆	hung4 hin2	蚯蚓。
 熱頭	jit6 tau5	太陽。例：出～／好大～。
+天頭	tin1 tau2	天氣。例：～㷫。
+囊	nong1	膿泡。例：嗰口又要出～。
 骾頸	kaang2 geng2	〔？〕咽喉阻塞。例：呢種面包好～／小心～。
 舅爹	kau6 de1	舅父。
 舅奶	kau6 naai5	舅母。
@@ -314,7 +318,7 @@ columns: [ text, code ]
 鹹𠹌𠹌	haam5 nang3 nang3	〔？〕很鹹。
 又一過	jau6 jat1 go3	〔？〕舊事重演。例：佢近排～了。
 圓軲轆	jyun5 gu2 lu2	圓圓的。例：個眼睛～嘅。
-冷？？	laang5 gwan3 gwan3	很冷。
+冷困困	laang5 gwan3 gwan3	〔？〕很冷。
 冇見路	maau5 gin3 lu6	眼瞎。例：睇～／靠咁近電視機～咩。
 乜骨頭	mat1 gwat1 tau5	什麼，可略讀爲「乜骨」。例：做～。
 麪䴿䴿	min1 mung3 mung3	極爲粉軟。例：～邊度好食啫。
