@@ -41,6 +41,7 @@
 #   o→oe
 #   ung→ong
 #   z→ng
+#   ʃ→ɬ
 #
 # 蒐集者：
 #   * jakwings
@@ -52,7 +53,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2016.2.27'
+version: '2016.2.28'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -93,11 +94,11 @@ columns: [ text, code ]
 搬	bun1	搬弄。例：在上高～乜嘢。
 捧	bung2	〔異讀←pung2〕例：～過來。
 搊	cau1	〔？〕束緊。例：～好條褲／～高衫袖。
+取	chu2	〔？〕移除。例：～開把鎖／～開尿布。
 搓	coe1	〔異讀←co1〕
 坐	coe5	〔異讀←co5〕〔動〕
 在	coi5	〔異讀←zoi6〕〔動〕例：～這裏。
 沖	cong3	〔異讀←cung1〕例：～一下／～廁所。
-取	cu2	〔？〕移除。例：～開把鎖／～開尿布。
 蛆	cyu1	〔異讀←ceoi1〕蛆蟲。例：一條～。
 同	dang6	〔？〕〔介〕陪同。例：你～我一齊去。
 踏	dap6	〔異讀←daap6〕著地；摔落。例：～步／～跤／～爛／～落地。
@@ -234,6 +235,7 @@ columns: [ text, code ]
 ？	zan6	〔？〕擠壓。例：～入去／～來～去。
 挃	zat1	〔？〕用手戳。例：亂～鍵盤／～壞屏幕。
 揤	zat6	擦拭。例：～鼻／～手／～干淨／～冇甩。
+著	zhu3	〔？〕〔助〕表狀態，用於祈使句。例：就噉抔～。
 隻	zik1	〔異讀←zek3〕〔量〕例：一～雞／～～。
 捉	zok3	〔異讀←zuk1〕例：～實／～到。
 著	zyu1	〔？〕〔助〕表狀態。例：亂～寫。
@@ -241,6 +243,7 @@ columns: [ text, code ]
 𤘅孲	aa3 haa1	〔？〕嬰兒。
 阿婆	aa3 po5	婆婆。
 啊低	aa6 dai1	〔？〕那下面。
+啊度	aa6 dou6	〔？〕那裏。
 啊高	aa6 gou1	〔？〕那上面。
 啊裏	aa6 neoi5	〔？〕那裏面。
 啊？	aa6 nik1	〔？〕那些。
@@ -263,6 +266,7 @@ columns: [ text, code ]
 踏跤	dap6 geu1	跌倒。
 逗死	dau3 sei2	作死。
 豆炸	dau6 ngaa1	〔？〕炸豆腐。
+地底	dei6 dai2	地面上。
 剫菜	dok6 coi3	〔？〕將菜不嫩及不能吃的部位去除。
 獨令	duk4 ning5	〔？〕特地。例：我～買定棵青菜。
 筷箸	faai3 zyu6	筷子。
@@ -279,6 +283,7 @@ columns: [ text, code ]
 嗰頭	go2 tau5	〔？〕那邊。
 果子	go2 zi2	水果。
 嗰低	go3 dai1	〔？〕這下面。
+嗰度	go3 dou6	〔？〕這裏。
 嗰高	go3 gou1	〔？〕這上面。
 嗰裏	go3 neoi5	〔？〕這裏面。
 嗰？	go3 nik1	〔？〕這些。
@@ -354,7 +359,7 @@ columns: [ text, code ]
 暗密密	on3 mat6 mat6	〔？〕昏暗。
 暗遢遢	on3 taat3 taat3	〔？〕昏暗。
 糖膠紙	tong4 keu1 zi2	糖果包裝袋。
-蛛巢𦧲	zyu1 daau1 le1	〔？〕蜘蛛網。
+蛛叨𠼱	zyu1 daau1 le1	〔？〕蜘蛛網。
 鬥事鬥喋	dau3 si6 dau3 dep3	〔？〕惹是生非。
 逗是逗非	dau3 si6 dau3 fei1	搬弄是非，惹是生非，撩是生非，撩是逗非。
 黑冪暗闥	haak1 mik1 on3 taat3	〔？〕昏暗。例：～喺度做咩。
@@ -369,7 +374,7 @@ columns: [ text, code ]
 嗌麪嗌濃	ngaai3 min1 ngaai3 ngung5	〔？〕嚼爛。
 新年大頭	san1 nin5 daai6 tau5	年初。
 酸？？？	syun1 deu1 gwaat3 laat3	〔？〕很酸。
-淡水披瀝	taam4 seoi2 pek3 lep3	〔？〕味淡。
+淡水？？	taam4 seoi2 pek3 lep3	〔？〕味淡。
 # A }
 # B {
 # 似乎有必要記錄一些高州話中相對奇特的語法：
