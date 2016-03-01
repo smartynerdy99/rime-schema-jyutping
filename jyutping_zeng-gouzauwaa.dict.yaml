@@ -53,7 +53,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2016.2.29'
+version: '2016.3.1'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -123,7 +123,7 @@ columns: [ text, code ]
 羹	gaang1	〔量〕匙。例：抔多一～粥。
 艮	gan3	〔？〕靜止；靜置；冰涼。例：杯水～到凍嗮／飯菜都～凍了／～凍盤涼粉／好～。
 趌	gat6	走。例：周圍～／又～去處呢。
-這	gei2	〔？〕這裏；現在。例：在～／～在打工。
+這	gei2	〔？〕這裏；現在。例：～隻字／在～／～在打工。
 狹	gep6	〔異讀←gip6〕例：樓梯咁～。
 ？	get4	〔？〕狹窄處。
 交	geu1	〔異讀←gaau1〕例：橫～十字／打～／鬧～。
@@ -307,7 +307,7 @@ columns: [ text, code ]
 爛逗	laan6 dau3	〔？〕頑皮。例：眞係～。
 爛開	laan6 hoi1	弄破。例：搞～。
 落水	lok6 seoi2	下雨。
-狼狽	long4 geoi1	〔？〕狼狽（狼⿰犭具）。
+狼狽	long4 geoi1	〔？〕狼狽（⿰犭具）。
 慢摩	maan6 mo1	〔？〕慢吞吞。
 冇好	maau5 hou2	不要。例：～打交／～飲酒。
 冇愛	maau5 oi3	不想要。
@@ -329,7 +329,7 @@ columns: [ text, code ]
 食開	sik6 hoi1	吃過；吃完。例：～晚飯未。
 食晚	sik6 maan5	吃晚飯。
 食朝	sik6 ziu1	吃早飯。
-？面	sing5 min6	臉。例：～面黒咗／睇下～。
+成面	sing5 min6	〔？〕特指某人的臉。例：～面黒咗／睇下～。
 上高	soeng6 gou1	上面。
 淡水	taam4 seoi2	〔？〕如浸泡過那般口味淡。
 頭菜	tau4 coi3	由大白菜曬製的菜乾。
@@ -337,7 +337,7 @@ columns: [ text, code ]
 天頭	tin1 tau2	天氣。例：～㷫。
 糖膠	tong4 keu1	糖果。
 回屋	wui5 uk1	回家。
-有功	yau5 gung1	（人）幫得上忙。例：好～咩／～死了。
+有功	yau5 gung1	有功勞。例：好～咩／～死了。
 集味	zaap6 mei6	入味。例：好～。
 遮被	ze1 pei5	蓋被子。
 蕉子	ziu1 zi2	香蕉。
