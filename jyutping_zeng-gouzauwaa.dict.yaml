@@ -53,7 +53,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2016.3.1'
+version: '2016.3.2'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -93,6 +93,7 @@ columns: [ text, code ]
 ？	buk6	〔？〕突起。例：頭撞到起～。
 搬	bun1	搬弄。例：在上高～乜嘢。
 捧	bung2	〔異讀←pung2〕例：～過來。
+出	cat1	〔異讀←ceot1〕
 搊	cau1	〔？〕束緊。例：～好條褲／～高衫袖。
 取	chu2	〔？〕移除。例：～開把鎖／～開尿布。
 搓	coe1	〔異讀←co1〕
@@ -100,9 +101,9 @@ columns: [ text, code ]
 在	coi5	〔異讀←zoi6〕〔動〕例：～這裏。
 沖	cong3	〔異讀←cung1〕例：～一下／～廁所。
 蛆	cyu1	〔異讀←ceoi1〕蛆蟲。例：一條～。
+嘚	dak1	〔？〕擺放。例：～在食飯檯上高。
 同	dang6	〔？〕〔介〕陪同。例：你～我一齊去。
 踏	dap6	〔異讀←daap6〕著地；摔落。例：～步／～跤／～爛／～落地。
-嘚	dat1	〔？〕擺放。例：～在食飯檯上高。
 知	dei1	〔？〕知道。例：～冇～。
 實	dei6	〔？〕密實。例：關～埲門／封～把口。
 濺	deng6	〔？〕飛濺。例：啲油～出來／～到眼睛。
@@ -315,6 +316,7 @@ columns: [ text, code ]
 落水	lok6 seoi2	下雨。
 狼狽	long4 geoi1	〔？〕狼狽（⿰犭具）。
 慢摩	maan6 mo1	〔？〕慢吞吞。
+冇得	maau5 dak1	不行。
 冇好	maau5 hou2	不要。例：～打交／～飲酒。
 冇愛	maau5 oi3	不想要。
 冇使	maau5 sai2	不必。
@@ -324,9 +326,9 @@ columns: [ text, code ]
 硬固	ngaang6 gu3	固執。
 銀紙	ngan4 zi2	紙幣；錢幣。
 生𤹗	saang1 mung1	〔？〕得口腔㿉瘍。
-㓾菜	sei1 coi3	〔？〕給菜剝絲。
 細儂	sai3 nung2	小孩。
 參薯	sam1 syu5	薯蓣（淮山）。
+㓾菜	sei1 coi3	〔？〕給菜剝絲。
 睡覺	seoi6 gaau3	廣州話「瞓覺」。
 睡夢	seoi6 mung6	做夢，廣州話「發夢」。例：尋晚～見到阿公。
 匙羹	si4 gaang1	羹匙，匙子。
@@ -371,6 +373,7 @@ columns: [ text, code ]
 蛛叨𠼱	zyu1 daau1 le1	〔？〕蜘蛛網。
 鬥事鬥喋	dau3 si6 dau3 dep3	〔？〕惹是生非。
 逗是逗非	dau3 si6 dau3 fei1	搬弄是非，惹是生非，撩是生非，撩是逗非。
+瘋瘋癬癬	fung1 fung1 sin2 sin2	〔？〕瘋瘋癲癲。
 黑冪暗闥	haak1 mik1 on3 taat3	〔？〕昏暗。例：～喺度做咩。
 ？？？？	loe6 loe6 goe1 goe1	〔？〕邋邋遢遢。
 落水婆娑	lok6 seoi2 baa6 saa1	〔？〕雨下得很大。
@@ -402,7 +405,7 @@ columns: [ text, code ]
 # 字：平時刷刷條牙刷呢
 # 譯：平時用的那條牙刷呢
 #
-# 音：zi1 cin5 haang5 haang5 tiu4 gaai1 jau6 ceot1 ce1 wo6 le6
+# 音：zi1 cin5 haang5 haang5 tiu4 gaai1 jau6 cat1 ce1 wo6 le6
 # 字：之前行行條街又出車禍了
 # 譯：以前經常走的那條街又出車禍了
 # B }
