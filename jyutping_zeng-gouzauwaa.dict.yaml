@@ -53,7 +53,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2016.3.9'
+version: '2016.3.15'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -332,6 +332,7 @@ columns: [ text, code ]
 冇愛	maau5 oi3	不想要。
 冇使	maau5 sai2	不必。
 密着	mat6 zeok6	頻快地。例：～食／～抔。
+摩挲	mo3 so3	〔？〕磨蹭。
 泥湴	nai4 baan6	泥濘。
 眼睡	ngaan5 seoi6	困倦。例：好～。
 硬固	ngaang6 gu3	固執。
