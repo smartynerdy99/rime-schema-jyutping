@@ -53,7 +53,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2016.3.17'
+version: '2016.3.18'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -102,7 +102,9 @@ columns: [ text, code ]
 沖	cong3	〔異讀←cung1〕例：～一下／～廁所。
 蛆	cyu1	〔異讀←ceoi1〕蛆蟲。例：一條～。
 嘚	dak1	〔？〕擺放。例：將菜～在食飯檯上高。
-同	dang6	〔？〕〔介〕陪同。例：你～我一齊去。
+同	dang6	〔異讀←tung6〕〔介〕替代。例：你～我買包米。
+同	dang6	〔異讀←tung6〕〔介〕朝向。例：你～我道歉。
+同	dang6	〔異讀←tung6〕〔介〕連同。例：你～我一齊去。
 踏	dap6	〔異讀←daap6〕著地；摔落。例：～步／～跤／～爛／～落地。
 知	dei1	〔？〕知道。例：～冇～。
 實	dei6	〔？〕密實。例：關～埲門／封～把口。
@@ -141,10 +143,11 @@ columns: [ text, code ]
 敢	gon2	〔異讀←gam2〕例：冇～。
 抣	gwan3	〔？〕纏。例：～喺度。
 下	haa5	〔動〕下移。例：～地／～來／～山。
-下	haang2	〔異讀←haa5〕〔量〕例：得閒睇～。
+下	haang2	〔異讀←haa5〕〔量〕例：得閒睇～望～。
 痕	han5	〔異讀←han4〕例：～冇～／疤～。
 興	hang1	〔？〕瘋癲。例：又喺度～。
 行	hang3	〔？〕奔波勞碌。例：周圍～／～上～落。
+候	hau6	等候；伺候。例：冇時間～你／邊個想成日～你。
 香	hieng1	〔異讀←hoeng1〕
 吃	hik1	〔異讀←hek3〕例：～飯。
 撬	hiu1	〔異讀←hiu3〕撬起。例：～起井蓋。
@@ -313,6 +316,7 @@ columns: [ text, code ]
 穀瓿	guk1 bu6	〔？〕米桶（形態臃腫）。例：著到好似～噉。
 共近	gung6 kan5	放在一起。例：兩隻手～就十隻手指／花費～四十八文。
 共儂	gung6 nung4	照顧（抱）孩子。
+慣勢	gwaan3 sai3	嬌生慣養。
 櫃胎	gwai6 toi1	抽屉。
 下低	haa6 dai1	下面。
 厚皮	hau6 pei5	充耳不聞。例：咁～聽冇到咩。
@@ -357,6 +361,7 @@ columns: [ text, code ]
 淡水	taam4 seoi2	〔？〕如浸泡過那般口味淡。
 頭菜	tau4 coi3	由大白菜曬製的菜乾。
 頭毛	tau4 mou1	頭髮。
+天開	tin1 hoi1	放晴，天開雲霽。例：等～先曬被。
 天頭	tin1 tau2	天氣。例：～㷫。
 糖膠	tong4 keu1	糖果。
 回屋	wui5 uk1	回家。
@@ -372,6 +377,7 @@ columns: [ text, code ]
 短赤赤	dyun2 cek1 cek1	〔？〕很短；不夠長。例：條褲～冇啱著。
 灰水籺	fui1 seoi2 it3	鹼水粽（梘水粽）。
 噉樣子	gam2 joeng6 zi2	這樣。略讀「噉子」。
+拱起身	gung3 hei2 san1	〔？〕起立。
 鹹𠹌𠹌	haam5 nang3 nang3	〔？〕很鹹。
 後生人	hau4 saang1 jan5	年輕人。
 又一過	jau6 jat1 go3	舊事重演。例：佢近排～了。
