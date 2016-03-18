@@ -73,6 +73,7 @@ columns: [ text, code ]
 #焫	naat3	滾燙。例：好～啊。
 #韌	ngan3	〔異讀←ngan6〕柔韌。
 #處	syu3	哪個；哪裏。例：～隻／到～／～有做錯。
+#整	zing2	製作。例：～菜／～飯／～餸／～粥。
 # 以上被註釋的單字及發音，雖然非高州話特有，但個人認爲可以增添趣味。
 # 以下部分字詞雖亦與廣州話或普通話有所重疊，但讀音和用法稍有不同，特爲記錄。
 # 〔異讀〕標記並不表明來源先後順序，亦不表示高州話無相關讀音，僅作比較之用。
@@ -215,6 +216,7 @@ columns: [ text, code ]
 焦	ngeu1	〔異讀←ziu1〕燒焦。例：煮～齊了／飯～／好多～碎。
 鵝	ngo1	〔異讀←ngo4〕
 濃	ngung5	〔異讀←nung4〕味厚或兼稠糊。例：好～／～茶。
+㖠	no4	〔助〕同「哪」。例：我邊知佢係乜誰～／冇諗到～。
 糯	noe6	〔異讀←no6〕
 囊	nong1	〔異讀←nong4〕囊泡，膿包。例：嗰口又要出～。
 儂	nung2	〔異讀←nung4〕小孩。
@@ -261,10 +263,12 @@ columns: [ text, code ]
 隻	zik1	〔異讀←zek3〕〔量〕同「個」。例：一～雞／～～。
 淨	zing6	〔形〕完全，竭盡。例：食～齊的餸／偷～啲錢。
 捉	zok3	〔異讀←zuk1〕例：～實／～到。
+祖	zu2	〔異讀←zou2〕
 著	zyu1	〔？〕〔助〕表狀態。例：亂～寫。
 阿公	aa3 gung1	爺爺。
 𤘅孲	aa3 haa1	〔？〕嬰兒。
 阿婆	aa3 po5	婆婆。
+阿祖	aa3 zu2	曾祖母。
 啊低	aa6 dai1	〔？〕那下面。
 啊度	aa6 dou6	〔？〕那裏。
 啊高	aa6 gou1	〔？〕那上面。
@@ -317,6 +321,7 @@ columns: [ text, code ]
 姑娘	gu1 noeng2	姑媽。
 姑爺	gu1 ye1	姑丈。
 穀瓿	guk1 bu6	〔？〕米桶（形態臃腫）。例：著到好似～噉。
+公祖	gung1 zu2	曾祖父。
 共近	gung6 kan5	放在一起。例：兩隻手～就十隻手指／花費～四十八文。
 共儂	gung6 nung4	照顧（抱）孩子。
 慣勢	gwaan3 sai3	嬌生慣養。
@@ -324,11 +329,13 @@ columns: [ text, code ]
 下低	haa6 dai1	下面。
 厚皮	hau6 pei5	充耳不聞。例：咁～聽冇到咩。
 號記	hou6 gei3	胎記。
+號名	hou6 ming5	起名。
 紅蜆	hung4 hin2	蚯蚓。
 熱頭	jit6 tau5	太陽。例：出～／好大～。
 骾頸	kaang2 geng2	〔？〕咽喉阻塞。例：呢種面包好～／小心～。
 舅爹	kau6 de1	舅父。
 舅奶	kau6 naai5	舅母。
+舊年	kau6 nin5	上一年。
 爛逗	laan6 dau3	〔？〕頑皮。例：眞係～。
 爛開	laan6 hoi1	弄破。例：搞～。
 落水	lok6 seoi2	下雨。
@@ -339,11 +346,13 @@ columns: [ text, code ]
 冇好	maau5 hou2	不要。例：～打交／～飲酒。
 冇愛	maau5 oi3	不想要。
 冇使	maau5 sai2	不必。
+乜誰	mat1 seoi5	什麼人。
 摩挲	mo3 so3	〔？〕磨蹭。
 泥湴	nai4 baan6	泥濘。
 眼睡	ngaan5 seoi6	困倦。例：好～。
 硬固	ngaang6 gu3	固執。
 銀紙	ngan4 zi2	紙幣；錢幣。
+外祖	ngoi6 zu2	曾外祖母。
 生𤹗	saang1 mung1	〔？〕得口腔㿉瘍。
 細儂	sai3 nung2	小孩。
 參薯	sam1 syu5	薯蓣（淮山）。
@@ -370,7 +379,6 @@ columns: [ text, code ]
 有功	yau5 gung1	〔貶〕有功勞。例：好～咩／～死了。
 集味	zaap6 mei6	入味。例：好～。
 遮被	ze1 pei5	蓋被子。
-整食	zing2 sik6	做飯。
 蕉子	ziu1 zi2	香蕉。
 著便	zoek6 bin6	以之爲便。例：成日要我幫你排隊～係未。
 著促	zoek6 cuk1	〔？〕嗆到喉嚨。
@@ -393,6 +401,7 @@ columns: [ text, code ]
 硬喀喀	ngaan6 kak6 kak6	〔？〕硬邦邦。
 澀褶褶	ngaap3 cep6 cep6	〔？〕口感不順滑。
 皺？？	ngau3 nge1 nge1	皺巴巴。例：件衫睡到～子。
+外公祖	ngoi6 gung1 zu2	曾外祖父。
 暗密密	on3 mat6 mat6	〔？〕昏暗。
 暗遢遢	on3 taat3 taat3	〔？〕昏暗。
 溼𣲷𣲷	sap1 lep4 lep4	〔？〕溼漉漉。
