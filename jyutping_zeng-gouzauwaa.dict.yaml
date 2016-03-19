@@ -54,7 +54,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2016.3.18'
+version: '2016.3.20'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -234,6 +234,7 @@ columns: [ text, code ]
 揳	sep3	〔？〕〔異讀←sip3〕塞入。例：～張紙入去／青菜～牙。
 勺	sep6	〔異讀←soek3〕
 匙	si4	〔異讀←ci4〕例：～羹／鎖～／湯～。
+似	si5	〔異讀←ci5〕
 尚	sieng1	〔？〕喜歡；貪戀。例：～飲～食／又～人哋嘅嘢食／鬼咁～。
 盛	sing5	〔異讀←sing4〕〔動〕例：～菜／～湯。
 寫	soe2	〔異讀←se2〕
@@ -422,6 +423,7 @@ columns: [ text, code ]
 嗌麪嗌濃	ngaai3 min1 ngaai3 ngung5	〔？〕嚼爛。
 新年大頭	san1 nin5 daai6 tau5	年初。
 手賴腳軟	sau2 laai6 goek3 jyun5	〔？〕手腳疲軟。
+食飽睡腯	sik6 baau2 seoi6 dat6	喻好吃懶做。例：～就冇記得做嘢。
 酸？？？	syun1 deu1 gwaat3 laat3	〔？〕很酸。
 淡水？？	taam4 seoi2 pek3 lep3	〔？〕味淡。
 # A }
