@@ -54,7 +54,7 @@
 ################################################################################
 ---
 name: jyutping_zeng-gouzauwaa
-version: '2016.3.22'
+version: '2016.3.23'
 sort: by_weight
 columns: [ text, code ]
 ...
@@ -378,6 +378,7 @@ columns: [ text, code ]
 天開	tin1 hoi1	放晴，天開雲霽。例：等～先曬被。
 天頭	tin1 tau2	天氣。例：～㷫。
 糖膠	tong4 keu1	糖果。
+回水	wui4 seoi2	（因回南天）再度潮溼。例：衣服又～了。
 回屋	wui5 uk1	回家。
 有功	yau5 gung1	〔貶〕有功勞。例：好～咩／～死了。
 集味	zaap6 mei6	入味。例：好～。
