@@ -98,6 +98,7 @@ columns: [ text, code ]
 捧	bung2	〔異讀←pung2〕例：～過來。
 出	cat1	〔異讀←ceot1〕
 搊	cau1	〔？〕束緊。例：～好條褲／～高衫袖。
+揳	cep3	〔？〕〔異讀←sip3〕塞入。例：～入去／～緊。
 取	chu2	〔？〕移除。例：～開把鎖／～開尿布。
 搓	coe1	〔異讀←co1〕
 坐	coe5	〔異讀←co5〕〔動〕
@@ -211,7 +212,7 @@ columns: [ text, code ]
 仁	ngan1	〔異讀←jan4〕果核。例：瓜～／多～／𠼱～。
 仍	ngan1	〔？〕例：將麪包～冰～凍食。
 ？	ngan1	〔？〕搗碎；磨碎。例：～麪～茸。
-掙	ngan3	〔？〕拉扯。例：～斷／～甩／～爛蚊帳。
+掙	ngang3	〔？〕〔異讀←zang1〕拉扯。例：～斷／～甩／～爛蚊帳。
 皺	ngau3	〔異讀←zau3〕例：睡～件衫／整～了。
 錐	ngeoi1	〔異讀←zeoi1〕鑽刺。例：～穿／～爛。
 焦	ngeu1	〔異讀←ziu1〕燒焦。例：煮～齊了／飯～／好多～碎。
@@ -260,17 +261,19 @@ columns: [ text, code ]
 整	zang2	〔異讀←zing2〕整理。例：～好／～碗／～好衣櫃。
 挃	zat1	〔？〕用手戳。例：亂～鍵盤／～壞屏幕。
 揤	zat6	擦拭。例：～鼻／～手／～干淨／～冇甩。
+祖	zhu2	〔異讀←zou2〕
 做	zhu3	〔異讀←zou6〕例：～工。
 著	zhu3	〔？〕〔助〕表狀態，用於祈使句。例：就噉抔～。
 隻	zik1	〔異讀←zek3〕〔量〕同「個」。例：一～雞／～～。
+先	zin3	〔？〕〔異讀←sin1〕〔副〕同「先、才」，「先至」。例：等～／等等～／等～吃飯／你～係傻瓜。
+至	zin3	〔？〕〔異讀←zi3〕〔副〕同「才」，「先至」。例：等等～吃飯／你～係傻瓜。
 淨	zing6	〔形〕完全，竭盡。例：食～齊的餸／偷～啲錢。
 捉	zok3	〔異讀←zuk1〕例：～實／～到。
-祖	zu2	〔異讀←zou2〕
 著	zyu1	〔？〕〔助〕表狀態。例：亂～寫。
 阿公	aa3 gung1	爺爺。
 𤘅孲	aa3 haa1	〔？〕嬰兒。
 阿婆	aa3 po5	婆婆。
-阿祖	aa3 zu2	曾祖母。
+阿祖	aa3 zhu2	曾祖母。
 啊低	aa6 dai1	〔？〕那下面。
 啊度	aa6 dou6	〔？〕那裏。
 啊高	aa6 gou1	〔？〕那上面。
@@ -294,7 +297,6 @@ columns: [ text, code ]
 大爹	daai6 de1	伯父。
 大味	daai6 mei6	味道過濃。例：好～。
 大奶	daai6 naai5	伯母。
-等先	dang2 zin3	〔？〕等會（再……）。例：等～／等一～。
 踏跤	dap6 geu1	跌倒。
 逗死	dau3 sei2	作死。
 豆炸	dau6 ngaa1	〔？〕炸豆腐。
@@ -323,10 +325,10 @@ columns: [ text, code ]
 姑娘	gu1 noeng2	姑媽。
 姑爺	gu1 ye1	姑丈。
 穀瓿	guk1 bu6	〔？〕米桶（形態臃腫）。例：著到好似～噉。
-公祖	gung1 zu2	曾祖父。
+公祖	gung1 zhu2	曾祖父。
 共近	gung6 kan5	放在一起。例：兩隻手～就十隻手指／花費～四十八文。
 共儂	gung6 nung4	照顧（抱）孩子。
-慣勢	gwaan3 sai3	嬌生慣養。
+慣勢	gwaan3 sai3	嬌生慣養，「就慣姿勢」。
 櫃胎	gwai6 toi1	抽屉。
 下低	haa6 dai1	下面。
 厚皮	hau6 pei5	充耳不聞。例：咁～聽冇到咩。
@@ -354,7 +356,7 @@ columns: [ text, code ]
 眼睡	ngaan5 seoi6	困倦。例：好～。
 硬固	ngaang6 gu3	固執。
 銀紙	ngan4 zi2	紙幣；錢幣。
-外祖	ngoi6 zu2	曾外祖母。
+外祖	ngoi6 zhu2	曾外祖母。
 生𤹗	saang1 mung1	〔？〕得口腔㿉瘍。
 細儂	sai3 nung2	小孩。
 參薯	sam1 syu5	薯蓣（淮山）。
@@ -405,7 +407,7 @@ columns: [ text, code ]
 硬喀喀	ngaan6 kak6 kak6	〔？〕硬邦邦。
 澀褶褶	ngaap3 cep6 cep6	〔？〕口感不順滑。
 皺？？	ngau3 nge1 nge1	皺巴巴。例：件衫睡到～子。
-外公祖	ngoi6 gung1 zu2	曾外祖父。
+外公祖	ngoi6 gung1 zhu2	曾外祖父。
 暗密密	on3 mat6 mat6	〔？〕昏暗。
 暗遢遢	on3 taat3 taat3	〔？〕昏暗。
 溼𣲷𣲷	sap1 lep4 lep4	〔？〕溼漉漉。
